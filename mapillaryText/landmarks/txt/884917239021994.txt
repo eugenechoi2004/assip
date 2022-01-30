@@ -1,0 +1,4 @@
+Minsk Square
+Latitude 12.9815135 Longitude 77.5967748 0.600233197212
+Visvesvaraya Industrial & Technological Museum
+Latitude 12.9752264 Longitude 77.5963449 0.520392298698

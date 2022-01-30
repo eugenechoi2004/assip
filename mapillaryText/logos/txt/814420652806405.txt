@@ -1,0 +1,4 @@
+Forest Department 0.864343702793
+bounds: (779,63),(860,63),(860,146),(779,146)
+Pennsylvania State University 0.674371778965
+bounds: (77,62),(140,62),(140,131),(77,131)

@@ -1,0 +1,2 @@
+Fairfield High School for Girls 0.61352533102
+bounds: (897,303),(976,303),(976,368),(897,368)

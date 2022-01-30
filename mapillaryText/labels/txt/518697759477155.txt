@@ -1,0 +1,10 @@
+Automotive parking light 0.978664755821
+Tire 0.958536565304
+Car 0.958415746689
+Vehicle 0.955680370331
+Wheel 0.954058289528
+Automotive lighting 0.921068072319
+Automotive tire 0.883197546005
+Automotive design 0.879642903805
+Automotive exterior 0.834717810154
+Parking 0.812994360924

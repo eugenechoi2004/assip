@@ -1,0 +1,10 @@
+Automotive parking light 0.97717165947
+Car 0.932913303375
+Vehicle 0.925314128399
+Hood 0.914094984531
+Motor vehicle 0.909544229507
+Vehicle registration plate 0.906425595284
+Automotive lighting 0.895496249199
+Automotive tire 0.873260498047
+Asphalt 0.865275979042
+Tree 0.863625824451

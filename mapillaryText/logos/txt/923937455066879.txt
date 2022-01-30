@@ -1,0 +1,6 @@
+Coca-Cola 0.752229511738
+bounds: (4,255),(118,255),(118,309),(4,309)
+Central Calcutta Polytechnic 0.665083825588
+bounds: (142,273),(209,273),(209,336),(142,336)
+Hong Kong Monetary Authority 0.586222946644
+bounds: (1,143),(80,143),(80,226),(1,226)

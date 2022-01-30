@@ -1,0 +1,10 @@
+Vehicle 0.938997983932
+Motor vehicle 0.90429764986
+Road surface 0.881019353867
+Asphalt 0.866232872009
+Building 0.854600012302
+Automotive lighting 0.847331523895
+Thoroughfare 0.83315551281
+Rickshaw 0.83105301857
+Double-decker bus 0.829524457455
+Automotive exterior 0.827766537666

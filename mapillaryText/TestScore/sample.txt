@@ -1,0 +1,1 @@
+Type(Logo/Text/Landmark) ImageID ImageQualityScore Value ConfidenceValue lat long

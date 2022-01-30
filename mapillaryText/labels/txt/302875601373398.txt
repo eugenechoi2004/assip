@@ -1,0 +1,10 @@
+Automotive lighting 0.911766707897
+Road surface 0.874804139137
+Asphalt 0.869811832905
+Vehicle 0.850485682487
+Tire 0.846454679966
+Truck 0.835591852665
+Automotive design 0.827073156834
+Thoroughfare 0.826988399029
+Motor vehicle 0.825338125229
+Automotive exterior 0.817931592464

@@ -1,0 +1,10 @@
+Car 0.979538917542
+Land vehicle 0.974049925804
+Wheel 0.95960855484
+Tire 0.957239151001
+Vehicle 0.948633551598
+Plant 0.936436355114
+Automotive lighting 0.924591600895
+Automotive tire 0.91296505928
+Motor vehicle 0.911873877048
+Automotive tail & brake light 0.910902738571

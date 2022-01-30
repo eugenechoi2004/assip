@@ -1,0 +1,2 @@
+Parkersburg High School 0.586956083775
+bounds: (0,94),(54,94),(54,198),(0,198)

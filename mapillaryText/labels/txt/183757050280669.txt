@@ -1,0 +1,10 @@
+Cloud 0.973327338696
+Sky 0.962166190147
+Car 0.939409911633
+Vehicle 0.924014270306
+Automotive lighting 0.902073383331
+Road surface 0.852598667145
+Mode of transport 0.840699315071
+Motor vehicle 0.829146265984
+Asphalt 0.827764987946
+Vehicle registration plate 0.778446674347

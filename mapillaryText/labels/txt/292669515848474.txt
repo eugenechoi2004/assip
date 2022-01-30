@@ -1,0 +1,10 @@
+Car 0.980374395847
+Automotive parking light 0.977868139744
+Sky 0.959928512573
+Vehicle 0.948117315769
+Motor vehicle 0.915959656239
+Automotive lighting 0.908919811249
+Tree 0.904488146305
+Vehicle registration plate 0.889323115349
+Road surface 0.888590991497
+Asphalt 0.878036618233

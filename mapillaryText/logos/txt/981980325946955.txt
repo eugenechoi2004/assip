@@ -1,0 +1,2 @@
+Indian Statistical Institute 0.659163117409
+bounds: (218,397),(311,397),(311,467),(218,467)

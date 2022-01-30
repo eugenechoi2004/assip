@@ -1,0 +1,6 @@
+INSTITUTIONS
+niversity College
+ 0.0 bounds: (-1,79),(135,79),(135,204),(-1,204)
+INSTITUTIONS 0.0 bounds: (1,79),(47,84),(45,96),(0,91)
+niversity 0.0 bounds: (14,117),(78,149),(64,178),(0,146)
+College 0.0 bounds: (85,154),(135,179),(123,204),(73,179)

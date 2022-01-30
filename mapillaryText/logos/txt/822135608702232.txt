@@ -1,0 +1,2 @@
+Lyndon B. Johnson State Park and Historic Site- Texas Parks and Wildlife Department 0.682600438595
+bounds: (793,343),(887,343),(887,439),(793,439)

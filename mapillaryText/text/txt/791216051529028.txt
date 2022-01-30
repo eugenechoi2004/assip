@@ -1,0 +1,5 @@
+VARSHA
+www.srloursúaveis.com
+ 0.0 bounds: (63,207),(792,207),(792,287),(63,287)
+VARSHA 0.0 bounds: (64,207),(124,212),(123,221),(63,216)
+www.srloursúaveis.com 0.0 bounds: (668,267),(792,277),(791,287),(667,277)

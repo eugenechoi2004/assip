@@ -1,0 +1,10 @@
+Automotive lighting 0.921836137772
+Vehicle 0.917868852615
+Motor vehicle 0.907842934132
+Automotive mirror 0.899718642235
+Automotive design 0.889431357384
+Tree 0.868514299393
+Mode of transport 0.846101939678
+Automotive exterior 0.841247081757
+Wheel 0.817851006985
+Steering wheel 0.810493648052

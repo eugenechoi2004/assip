@@ -1,0 +1,2 @@
+Goodyear Tire and Rubber Company 0.950741589069
+bounds: (386,301),(520,301),(520,352),(386,352)

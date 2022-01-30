@@ -1,0 +1,10 @@
+Wheel 0.96679764986
+Tire 0.953962981701
+Automotive lighting 0.926984012127
+Vehicle 0.925994277
+Motor vehicle 0.918943524361
+Automotive tire 0.915911853313
+Road surface 0.887189924717
+Motorcycle helmet 0.878892540932
+Automotive mirror 0.875703275204
+Asphalt 0.870166897774

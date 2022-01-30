@@ -1,0 +1,10 @@
+Automotive side-view mirror 0.957775354385
+Car 0.955226719379
+Vehicle 0.929759442806
+Motor vehicle 0.928891599178
+Window 0.927423417568
+Automotive lighting 0.925942242146
+Sky 0.911401450634
+Wheel 0.889743030071
+Automotive design 0.88609534502
+Road surface 0.877642214298

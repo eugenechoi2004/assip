@@ -1,0 +1,4 @@
+Shiv Nadar University 0.65783572197
+bounds: (74,587),(172,587),(172,689),(74,689)
+Darwen Aldridge Community Academy 0.562095046043
+bounds: (19,248),(150,248),(150,336),(19,336)

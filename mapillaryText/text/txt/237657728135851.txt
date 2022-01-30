@@ -1,0 +1,12 @@
+WhatDrive
+ODUCING THE
+DrivesYou
+DUNCHGRID
+REVOLUTION
+ 0.0 bounds: (0,263),(206,263),(206,396),(0,396)
+WhatDrive 0.0 bounds: (149,286),(185,293),(184,299),(148,293)
+ODUCING 0.0 bounds: (2,263),(44,271),(43,280),(0,272)
+THE 0.0 bounds: (49,273),(60,275),(59,282),(48,280)
+DrivesYou 0.0 bounds: (167,290),(205,297),(204,305),(166,298)
+DUNCHGRID 0.0 bounds: (20,305),(163,315),(160,355),(17,345)
+REVOLUTION 0.0 bounds: (83,383),(167,377),(168,390),(84,396)

@@ -1,0 +1,10 @@
+Plant 0.913317024708
+Motor vehicle 0.910637259483
+Window 0.892432510853
+Automotive tail & brake light 0.887133777142
+Automotive tire 0.844824194908
+Gas 0.781002342701
+Building 0.756332218647
+Auto part 0.752248466015
+Automotive wheel system 0.736683905125
+Vehicle 0.695441365242

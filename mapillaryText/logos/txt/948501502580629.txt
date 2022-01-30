@@ -1,0 +1,2 @@
+Dhirubhai Ambani International School 0.687333226204
+bounds: (169,275),(255,275),(255,348),(169,348)

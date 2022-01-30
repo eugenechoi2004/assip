@@ -1,0 +1,2 @@
+Instituto Tecnológico Autónomo de México 0.577433586121
+bounds: (0,438),(189,438),(189,512),(0,512)

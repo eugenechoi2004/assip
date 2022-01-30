@@ -1,0 +1,2 @@
+International Committee of the Red Cross 0.946048080921
+bounds: (99,335),(212,335),(212,389),(99,389)

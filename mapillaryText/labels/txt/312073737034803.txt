@@ -1,0 +1,10 @@
+Sky 0.965026915073
+Automotive lighting 0.916142523289
+Motor vehicle 0.914435088634
+Infrastructure 0.895219445229
+Automotive mirror 0.884209036827
+Road surface 0.88171261549
+Asphalt 0.874053478241
+Mode of transport 0.856206774712
+Vehicle 0.838391602039
+Thoroughfare 0.83505743742

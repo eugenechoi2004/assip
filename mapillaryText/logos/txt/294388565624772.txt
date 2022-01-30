@@ -1,0 +1,2 @@
+Loyola Senior High School, Mount Druitt 0.565905570984
+bounds: (639,214),(821,214),(821,274),(639,274)

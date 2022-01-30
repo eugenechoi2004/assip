@@ -1,0 +1,10 @@
+Daytime 0.946018815041
+Sky 0.940055787563
+Automotive lighting 0.924711763859
+Automotive mirror 0.909670770168
+Motor vehicle 0.907462120056
+Window 0.89477533102
+Vehicle 0.893828094006
+Infrastructure 0.891519963741
+Mode of transport 0.857041537762
+Rear-view mirror 0.853600203991

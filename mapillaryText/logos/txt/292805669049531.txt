@@ -1,0 +1,4 @@
+International Trade Centre 0.570523142815
+bounds: (37,6),(96,6),(96,94),(37,94)
+Pennsylvania Lottery 0.55421257019
+bounds: (164,10),(225,10),(225,84),(164,84)

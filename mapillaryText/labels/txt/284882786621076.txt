@@ -1,0 +1,10 @@
+Tire 0.975648999214
+Wheel 0.975126385689
+Car 0.972332417965
+Land vehicle 0.969366014004
+Vehicle 0.957894027233
+Suzuki swift 0.95419305563
+Vehicle registration plate 0.931804001331
+Hood 0.917896270752
+Automotive side-view mirror 0.917208433151
+Automotive lighting 0.901633620262

@@ -1,0 +1,10 @@
+Car 0.962583839893
+Vehicle 0.954530715942
+Infrastructure 0.913505792618
+Motor vehicle 0.910298883915
+Automotive carrying rack 0.888754546642
+Window 0.865267336369
+Mode of transport 0.860586881638
+Automotive exterior 0.855606973171
+Parking 0.840281307697
+Automotive design 0.824000120163

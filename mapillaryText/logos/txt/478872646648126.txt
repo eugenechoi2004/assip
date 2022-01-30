@@ -1,0 +1,2 @@
+Shahjalal Islami Bank Limited 0.69401037693
+bounds: (723,0),(890,0),(890,110),(723,110)

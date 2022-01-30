@@ -1,0 +1,2 @@
+Ralph Lauren Corporation 0.831133842468
+bounds: (230,0),(997,0),(997,257),(230,257)

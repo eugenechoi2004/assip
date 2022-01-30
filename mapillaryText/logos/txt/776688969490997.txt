@@ -1,0 +1,2 @@
+United States Marine Corps 0.662616193295
+bounds: (64,208),(174,208),(174,292),(64,292)

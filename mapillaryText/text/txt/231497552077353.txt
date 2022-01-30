@@ -1,0 +1,11 @@
+DIAMOND
+MAHALAXMI
+PLASTICS
+crylic, Plastic Sheets
+ 0.0 bounds: (1,83),(974,83),(974,268),(1,268)
+DIAMOND 0.0 bounds: (939,83),(974,83),(974,90),(939,90)
+MAHALAXMI 0.0 bounds: (18,221),(102,221),(102,239),(18,239)
+PLASTICS 0.0 bounds: (37,237),(80,236),(80,250),(37,251)
+crylic, 0.0 bounds: (1,253),(29,253),(29,268),(1,268)
+Plastic 0.0 bounds: (31,253),(61,253),(61,265),(31,265)
+Sheets 0.0 bounds: (65,254),(95,254),(95,264),(65,264)

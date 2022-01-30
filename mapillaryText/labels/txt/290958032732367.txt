@@ -1,0 +1,10 @@
+Bus 0.978595554829
+Tire 0.948750734329
+Automotive parking light 0.944073438644
+Vehicle 0.937159240246
+Motor vehicle 0.921307742596
+Tree 0.904144525528
+Sky 0.87756383419
+Tour bus service 0.844657123089
+Automotive side-view mirror 0.836758732796
+Automotive exterior 0.82542771101

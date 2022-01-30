@@ -1,0 +1,10 @@
+Vehicle 0.941117405891
+Motor vehicle 0.925872266293
+Bus 0.905308306217
+Automotive lighting 0.900498747826
+Tree 0.882074654102
+Vehicle registration plate 0.867988348007
+Asphalt 0.866213858128
+Road surface 0.862582981586
+Mode of transport 0.847929418087
+Double-decker bus 0.841863870621

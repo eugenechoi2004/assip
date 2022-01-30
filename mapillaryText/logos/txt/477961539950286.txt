@@ -1,0 +1,2 @@
+Simply Orange Juice Company 0.617900252342
+bounds: (742,227),(800,227),(800,267),(742,267)

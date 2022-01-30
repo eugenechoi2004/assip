@@ -1,0 +1,10 @@
+Automotive tail & brake light 0.946304857731
+Vehicle registration plate 0.945262670517
+Sky 0.93341255188
+Vehicle 0.932574033737
+Automotive lighting 0.928183734417
+Plant 0.91485875845
+Motor vehicle 0.90609818697
+Road surface 0.883454084396
+Tree 0.882164537907
+Asphalt 0.868210613728

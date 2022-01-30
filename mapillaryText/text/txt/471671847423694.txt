@@ -1,0 +1,3 @@
+barstockchange
+ 0.0 bounds: (-1,161),(94,161),(94,218),(-1,218)
+barstockchange 0.0 bounds: (6,161),(94,204),(87,218),(-1,174)

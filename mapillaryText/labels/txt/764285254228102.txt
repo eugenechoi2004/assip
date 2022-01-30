@@ -1,0 +1,10 @@
+Wheel 0.978913247585
+Automotive parking light 0.977132797241
+Tire 0.974806547165
+Land vehicle 0.970890700817
+Vehicle 0.953013598919
+Car 0.939651191235
+Motor vehicle 0.915127456188
+Automotive lighting 0.905013918877
+Infrastructure 0.900347650051
+Automotive tire 0.895523607731

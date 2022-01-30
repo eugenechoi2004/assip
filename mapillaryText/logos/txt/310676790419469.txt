@@ -1,0 +1,6 @@
+Raymond Ltd 0.780595302582
+bounds: (744,299),(849,299),(849,373),(744,373)
+Anti Social Social Club 0.607461929321
+bounds: (600,0),(715,0),(715,70),(600,70)
+Raising Cane's Chicken Fingers 0.561305403709
+bounds: (18,291),(89,291),(89,335),(18,335)

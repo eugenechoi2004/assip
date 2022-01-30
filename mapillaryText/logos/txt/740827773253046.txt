@@ -1,0 +1,2 @@
+Allama Iqbal Open University 0.584023177624
+bounds: (2,200),(122,200),(122,283),(2,283)

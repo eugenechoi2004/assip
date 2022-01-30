@@ -1,0 +1,6 @@
+Porcelanosa 0.651237368584
+bounds: (912,434),(1008,434),(1008,470),(912,470)
+King Fahd University of Petroleum and Minerals 0.65023124218
+bounds: (767,399),(826,399),(826,459),(767,459)
+Chow Tai Fook 0.612253546715
+bounds: (793,285),(884,285),(884,335),(793,335)

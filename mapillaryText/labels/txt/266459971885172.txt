@@ -1,0 +1,10 @@
+Sky 0.95687609911
+Tire 0.945943295956
+Vehicle 0.935622274876
+Infrastructure 0.903156220913
+Building 0.900817751884
+Road surface 0.896773040295
+Asphalt 0.888801276684
+Motor vehicle 0.888160765171
+Vehicle registration plate 0.861163556576
+Mode of transport 0.856207609177

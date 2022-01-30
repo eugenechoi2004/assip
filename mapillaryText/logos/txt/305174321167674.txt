@@ -1,0 +1,2 @@
+Jumeirah English Speaking School 0.611698210239
+bounds: (810,251),(896,251),(896,323),(810,323)

@@ -1,0 +1,2 @@
+The Ritz-Carlton Hotel Company 0.553324759007
+bounds: (296,158),(504,158),(504,206),(296,206)

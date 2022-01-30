@@ -1,0 +1,10 @@
+Sky 0.925804316998
+Automotive lighting 0.920657098293
+Hood 0.916775941849
+Automotive mirror 0.876384139061
+Automotive tire 0.854676008224
+Automotive exterior 0.838548123837
+Tree 0.823266208172
+Rear-view mirror 0.791253566742
+Vehicle door 0.791225969791
+Car 0.790724277496

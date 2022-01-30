@@ -1,0 +1,10 @@
+Leaf 0.89459079504
+Infrastructure 0.890367150307
+Tree 0.878185749054
+Road surface 0.87288492918
+Motor vehicle 0.859714269638
+Automotive lighting 0.853252768517
+Mode of transport 0.849585831165
+Asphalt 0.84253770113
+Automotive exterior 0.838980615139
+Woody plant 0.801342844963

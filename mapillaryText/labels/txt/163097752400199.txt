@@ -1,0 +1,10 @@
+Car 0.967096209526
+Automotive side-view mirror 0.960342824459
+Vehicle 0.954779207706
+Plant 0.945504724979
+Automotive tail & brake light 0.931413590908
+Automotive lighting 0.918631136417
+Motor vehicle 0.913815259933
+Automotive mirror 0.901940762997
+Road surface 0.877217650414
+Asphalt 0.870630860329

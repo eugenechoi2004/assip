@@ -1,0 +1,2 @@
+Central Department Store 0.742570400238
+bounds: (701,17),(782,17),(782,88),(701,88)

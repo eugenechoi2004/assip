@@ -1,0 +1,4 @@
+Professional Darts Corporation 0.68604439497
+bounds: (852,643),(948,643),(948,764),(852,764)
+JC International Airlines 0.551960766315
+bounds: (122,365),(181,365),(181,455),(122,455)

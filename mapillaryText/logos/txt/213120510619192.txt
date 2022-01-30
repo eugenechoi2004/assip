@@ -1,0 +1,2 @@
+International Watch Company 0.599792718887
+bounds: (343,142),(430,142),(430,206),(343,206)

@@ -1,0 +1,4 @@
+Firestone Tire and Rubber Company 0.75480479002
+bounds: (32,193),(88,193),(88,240),(32,240)
+Guilford College 0.60130417347
+bounds: (909,165),(1024,165),(1024,276),(909,276)

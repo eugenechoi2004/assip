@@ -1,0 +1,10 @@
+Automotive lighting 0.915064156055
+Rectangle 0.824775338173
+Tints and shades 0.771959245205
+Automotive design 0.746984899044
+Sky 0.742286503315
+Glass 0.729480683804
+Public transport 0.722482442856
+Automotive exterior 0.718181669712
+Flooring 0.708364486694
+Metal 0.70420730114

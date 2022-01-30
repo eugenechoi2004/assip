@@ -1,0 +1,10 @@
+Building 0.93133866787
+Plant 0.9279961586
+Window 0.919123291969
+Infrastructure 0.895068943501
+Tree 0.851266503334
+Road surface 0.848678350449
+Mode of transport 0.841132044792
+Asphalt 0.831963062286
+Neighbourhood 0.828258931637
+Vehicle registration plate 0.812243580818

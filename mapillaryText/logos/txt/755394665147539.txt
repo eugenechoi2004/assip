@@ -1,0 +1,2 @@
+Cardinal Carter Academy for the Arts 0.573193907738
+bounds: (785,302),(893,302),(893,347),(785,347)

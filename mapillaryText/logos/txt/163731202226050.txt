@@ -1,0 +1,2 @@
+Water Quality Association 0.589184463024
+bounds: (66,444),(143,444),(143,482),(66,482)

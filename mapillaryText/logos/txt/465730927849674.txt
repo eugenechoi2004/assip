@@ -1,0 +1,2 @@
+InterContinental Hotels Group 0.557434618473
+bounds: (79,73),(201,73),(201,191),(79,191)

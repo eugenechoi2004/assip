@@ -1,0 +1,10 @@
+Automotive parking light 0.941623091698
+Automotive lighting 0.923637926579
+Vehicle 0.921848595142
+Car 0.912055253983
+Motor vehicle 0.900296807289
+Automotive design 0.860039353371
+Mode of transport 0.849835634232
+Electricity 0.818610489368
+Headlamp 0.813171744347
+Automotive exterior 0.811927735806

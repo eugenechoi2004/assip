@@ -1,0 +1,2 @@
+Rectilinear Research Corporation 0.589845776558
+bounds: (643,166),(816,166),(816,244),(643,244)

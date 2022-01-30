@@ -1,0 +1,2 @@
+International Black Sea University 0.571521759033
+bounds: (466,393),(523,393),(523,428),(466,428)

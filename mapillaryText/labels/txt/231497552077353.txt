@@ -1,0 +1,10 @@
+Vehicle 0.940946578979
+Motor vehicle 0.925061941147
+Wheel 0.9052323699
+Tire 0.892272472382
+Automotive lighting 0.880271375179
+Automotive design 0.864061832428
+Tree 0.847097098827
+Mode of transport 0.843644320965
+Automotive exterior 0.832600653172
+Asphalt 0.824138045311

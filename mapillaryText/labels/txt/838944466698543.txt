@@ -1,0 +1,10 @@
+Tree 0.895556986332
+Motor vehicle 0.889022052288
+Automotive lighting 0.862492263317
+Motorcycle helmet 0.862225174904
+Asphalt 0.849926769733
+Mode of transport 0.845565617085
+Road surface 0.838556230068
+Automotive tire 0.81094700098
+Sidewalk 0.810443580151
+Woody plant 0.810111701488

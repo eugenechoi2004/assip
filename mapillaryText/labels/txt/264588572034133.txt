@@ -1,0 +1,10 @@
+Photograph 0.942957758904
+Motor vehicle 0.928089559078
+Vehicle 0.924095511436
+White 0.92186576128
+Automotive lighting 0.91633862257
+Automotive tire 0.905461013317
+Automotive design 0.886039078236
+Building 0.877892792225
+Mode of transport 0.869522690773
+Motorcycle 0.837992846966

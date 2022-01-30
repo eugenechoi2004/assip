@@ -1,0 +1,10 @@
+Land vehicle 0.959120452404
+Vehicle 0.926463067532
+Automotive lighting 0.921686351299
+Automotive tire 0.921551704407
+Motorcycle 0.91036760807
+Tree 0.890897572041
+Automotive design 0.885410249233
+Motor vehicle 0.88299882412
+Fuel tank 0.86835962534
+Automotive mirror 0.859854340553

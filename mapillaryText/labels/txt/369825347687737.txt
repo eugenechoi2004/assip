@@ -1,0 +1,10 @@
+Automotive side-view mirror 0.971055328846
+Plant 0.951800763607
+Car 0.942120909691
+Vehicle registration plate 0.929362356663
+Vehicle 0.923874497414
+Tire 0.91691839695
+Sky 0.912252545357
+Automotive tire 0.911818802357
+Automotive lighting 0.909901380539
+Wheel 0.900684416294

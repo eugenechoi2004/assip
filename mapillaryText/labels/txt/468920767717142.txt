@@ -1,0 +1,10 @@
+Automotive parking light 0.976763784885
+Land vehicle 0.973173379898
+Car 0.970660448074
+Tire 0.968713998795
+Wheel 0.952178895473
+Vehicle 0.950041532516
+Sky 0.937975347042
+Motor vehicle 0.929151535034
+Vehicle registration plate 0.908824563026
+Infrastructure 0.90498071909

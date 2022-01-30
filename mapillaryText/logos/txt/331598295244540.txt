@@ -1,0 +1,2 @@
+Broken Arrow High School 0.556820392609
+bounds: (7,4),(183,4),(183,178),(7,178)

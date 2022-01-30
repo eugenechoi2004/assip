@@ -1,0 +1,2 @@
+Student Conservation Association 0.553068518639
+bounds: (954,408),(1023,408),(1023,475),(954,475)

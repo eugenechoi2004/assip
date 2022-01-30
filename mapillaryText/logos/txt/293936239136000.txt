@@ -1,0 +1,2 @@
+Westbourne School, Penarth 0.556097745895
+bounds: (694,0),(785,0),(785,102),(694,102)

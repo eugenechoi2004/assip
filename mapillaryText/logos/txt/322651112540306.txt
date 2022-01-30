@@ -1,0 +1,2 @@
+Sardar Patel Institute of Technology 0.824731707573
+bounds: (374,227),(433,227),(433,289),(374,289)

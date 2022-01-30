@@ -1,0 +1,2 @@
+Washington State Golf Association 0.664589583874
+bounds: (138,295),(215,295),(215,348),(138,348)

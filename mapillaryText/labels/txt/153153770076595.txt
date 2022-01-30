@@ -1,0 +1,10 @@
+Automotive parking light 0.978140115738
+Car 0.971449494362
+Land vehicle 0.968831837177
+Vehicle 0.949118852615
+Automotive tail & brake light 0.937053799629
+Automotive lighting 0.920757055283
+Motor vehicle 0.909064471722
+Mode of transport 0.857266664505
+Tree 0.854394078255
+Road surface 0.852379143238

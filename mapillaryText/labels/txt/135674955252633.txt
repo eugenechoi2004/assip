@@ -1,0 +1,10 @@
+Sky 0.971064805984
+Car 0.968372225761
+Land vehicle 0.96097266674
+Automotive side-view mirror 0.952022790909
+Vehicle 0.950122416019
+Vehicle registration plate 0.915457844734
+Automotive lighting 0.903675377369
+Motor vehicle 0.903134763241
+Wheel 0.898423373699
+Automotive mirror 0.892531812191

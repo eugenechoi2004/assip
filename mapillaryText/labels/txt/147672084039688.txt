@@ -1,0 +1,10 @@
+Wheel 0.978977441788
+Automotive parking light 0.97234326601
+Tire 0.966930627823
+Car 0.966783106327
+Land vehicle 0.960570693016
+Vehicle 0.948458552361
+Automotive tail & brake light 0.94582426548
+Motor vehicle 0.922509551048
+Automotive side marker light 0.920876443386
+Automotive tire 0.91729426384

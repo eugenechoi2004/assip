@@ -1,0 +1,10 @@
+Automotive parking light 0.977114498615
+Plant 0.966602325439
+Sky 0.955150604248
+Automotive tail & brake light 0.941755056381
+Car 0.937439382076
+Vehicle 0.92264264822
+Automotive lighting 0.918297827244
+Cloud 0.908661961555
+Vehicle registration plate 0.89225757122
+Road surface 0.889771163464

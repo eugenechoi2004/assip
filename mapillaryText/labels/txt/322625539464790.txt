@@ -1,0 +1,10 @@
+Tire 0.953006923199
+Automotive lighting 0.908999502659
+Wheel 0.906310319901
+Vehicle registration plate 0.902424573898
+Infrastructure 0.90097784996
+Window 0.897734045982
+Vehicle 0.878320515156
+Temple 0.87772166729
+Standing 0.864216566086
+Mode of transport 0.858340978622

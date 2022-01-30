@@ -1,0 +1,10 @@
+Automotive lighting 0.926747918129
+Automotive tire 0.925165653229
+Motor vehicle 0.918268918991
+Vehicle 0.912032604218
+Mirror 0.901252806187
+Automotive mirror 0.897588551044
+Automotive design 0.896171987057
+Motorcycle helmet 0.891467988491
+Tree 0.878800153732
+Fuel tank 0.865696787834

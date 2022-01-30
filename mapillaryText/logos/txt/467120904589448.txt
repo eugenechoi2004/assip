@@ -1,0 +1,2 @@
+Auburn University at Montgomery 0.558417677879
+bounds: (1,410),(55,410),(55,439),(1,439)

@@ -1,0 +1,2 @@
+East Tennessee State University 0.562858819962
+bounds: (915,94),(975,94),(975,151),(915,151)

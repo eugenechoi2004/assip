@@ -1,0 +1,2 @@
+International Accounting Standards Board 0.633014261723
+bounds: (662,83),(715,83),(715,147),(662,147)

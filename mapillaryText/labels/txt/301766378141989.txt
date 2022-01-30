@@ -1,0 +1,10 @@
+Sky 0.965743124485
+Tire 0.957662940025
+Car 0.955960690975
+Automotive side-view mirror 0.951845228672
+Vehicle 0.94199860096
+Cloud 0.935854792595
+Wheel 0.935125410557
+Automotive tail & brake light 0.923653304577
+Motor vehicle 0.913911283016
+Vehicle registration plate 0.91252809763

@@ -1,0 +1,10 @@
+Tire 0.947258889675
+Vehicle 0.916734993458
+Motor vehicle 0.904056608677
+Automotive tire 0.885763585567
+Automotive exterior 0.820795893669
+Asphalt 0.807862401009
+Commercial vehicle 0.787181735039
+Gas 0.780790090561
+Light commercial vehicle 0.747727692127
+Roof 0.746579408646

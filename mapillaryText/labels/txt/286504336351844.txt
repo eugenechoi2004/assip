@@ -1,0 +1,10 @@
+Bus 0.982550024986
+Sky 0.956762135029
+Vehicle 0.94905602932
+Window 0.939532339573
+Motor vehicle 0.932498157024
+Tour bus service 0.882585704327
+Mode of transport 0.847914814949
+Automotive exterior 0.837832570076
+Public transport 0.810399532318
+Automotive lighting 0.804157853127

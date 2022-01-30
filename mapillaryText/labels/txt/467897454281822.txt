@@ -1,0 +1,10 @@
+Automotive lighting 0.926027655602
+Plant 0.919412970543
+Automotive tire 0.88162112236
+Motor vehicle 0.877609610558
+Sunlight 0.850706338882
+Headlamp 0.824512839317
+Asphalt 0.799704968929
+Automotive exterior 0.79257196188
+Tree 0.788426816463
+Tints and shades 0.771607518196

@@ -1,0 +1,10 @@
+Vehicle 0.922742664814
+Automotive lighting 0.921676695347
+Motor vehicle 0.91364133358
+Automotive mirror 0.913225293159
+Automotive design 0.867707312107
+Rear-view mirror 0.865411996841
+Mode of transport 0.862506330013
+Tree 0.861829817295
+Automotive exterior 0.851157486439
+Windscreen wiper 0.816345393658

@@ -1,0 +1,10 @@
+Hood 0.894973933697
+Automotive lighting 0.884129881859
+Automotive design 0.825921416283
+Automotive exterior 0.825209200382
+Tints and shades 0.77218735218
+Auto part 0.739825069904
+Bumper 0.699613153934
+Font 0.687950193882
+Glass 0.685546040535
+Automotive window part 0.675218701363

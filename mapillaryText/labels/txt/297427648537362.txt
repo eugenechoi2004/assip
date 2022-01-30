@@ -1,0 +1,10 @@
+Motor vehicle 0.888968706131
+Automotive tire 0.864625096321
+Road surface 0.857658624649
+Asphalt 0.820022523403
+Automotive lighting 0.81325507164
+Automotive exterior 0.781164586544
+Road 0.77892935276
+Tar 0.773797631264
+Tints and shades 0.769100964069
+Font 0.76847410202

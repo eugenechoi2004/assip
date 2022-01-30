@@ -1,0 +1,2 @@
+American Radio Relay League 0.724001586437
+bounds: (781,287),(847,287),(847,353),(781,353)

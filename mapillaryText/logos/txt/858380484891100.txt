@@ -1,0 +1,2 @@
+Cedar Rapids Community School District 0.792264223099
+bounds: (645,150),(793,150),(793,301),(645,301)

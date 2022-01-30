@@ -1,0 +1,2 @@
+University of North Texas 0.771093845367
+bounds: (1,195),(77,195),(77,247),(1,247)

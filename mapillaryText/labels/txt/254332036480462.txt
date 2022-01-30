@@ -1,0 +1,10 @@
+Sky 0.968181610107
+Car 0.96771967411
+Vehicle 0.9550126791
+Building 0.938167214394
+Vehicle registration plate 0.921991407871
+Skyscraper 0.919610261917
+Tire 0.914927721024
+Automotive lighting 0.90901273489
+Motor vehicle 0.897167742252
+Automotive design 0.885210514069

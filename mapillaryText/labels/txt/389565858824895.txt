@@ -1,0 +1,10 @@
+Tire 0.963998377323
+Land vehicle 0.959506332874
+Vehicle 0.955844223499
+Wheel 0.94645357132
+Motor vehicle 0.932035982609
+Automotive lighting 0.930065214634
+Car 0.925224006176
+Automotive tire 0.923114597797
+Automotive design 0.909221053123
+Motorcycle helmet 0.898298025131

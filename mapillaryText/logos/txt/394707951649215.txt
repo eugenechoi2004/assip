@@ -1,0 +1,2 @@
+Moultrie Technical College 0.637211740017
+bounds: (0,17),(103,17),(103,69),(0,69)

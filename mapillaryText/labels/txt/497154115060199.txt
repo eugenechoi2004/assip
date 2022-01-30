@@ -1,0 +1,10 @@
+Vehicle 0.941001653671
+Motor vehicle 0.933448553085
+Window 0.897763252258
+Automotive lighting 0.882201433182
+Automotive exterior 0.872601866722
+Car 0.867829561234
+Bus 0.860013604164
+Mode of transport 0.845478951931
+Commercial vehicle 0.811734557152
+Public transport 0.786305069923

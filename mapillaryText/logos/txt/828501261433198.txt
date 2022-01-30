@@ -1,0 +1,2 @@
+West Pharmaceutical Services 0.55782520771
+bounds: (100,328),(179,328),(179,363),(100,363)

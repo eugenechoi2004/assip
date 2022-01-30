@@ -1,0 +1,4 @@
+Sunrise Communications AG 0.67714881897
+bounds: (85,186),(212,186),(212,280),(85,280)
+Swedish Social Insurance Agency 0.555270314217
+bounds: (874,112),(1023,112),(1023,215),(874,215)

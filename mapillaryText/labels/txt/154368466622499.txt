@@ -1,0 +1,10 @@
+Bus 0.947052598
+Tire 0.940313994884
+Vehicle 0.93387824297
+Motor vehicle 0.926490724087
+Sky 0.916698694229
+Automotive lighting 0.911599755287
+Vehicle registration plate 0.902664422989
+Tour bus service 0.878863155842
+Mode of transport 0.857007086277
+Car 0.85520118475

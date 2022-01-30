@@ -1,0 +1,2 @@
+Alvin Ailey American Dance Theater 0.58235001564
+bounds: (505,188),(645,188),(645,254),(505,254)

@@ -1,0 +1,10 @@
+Tree 0.894799590111
+Motor vehicle 0.886607050896
+Automotive lighting 0.874690413475
+Vehicle 0.872850954533
+Road surface 0.868924796581
+Asphalt 0.85662484169
+Mode of transport 0.856110990047
+Automotive design 0.841541707516
+Motorcycle 0.829827725887
+Thoroughfare 0.795811414719

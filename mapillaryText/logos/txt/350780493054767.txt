@@ -1,0 +1,2 @@
+Badminton World Federation 0.589060366154
+bounds: (76,372),(221,372),(221,411),(76,411)

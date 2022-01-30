@@ -1,0 +1,10 @@
+Automotive lighting 0.927523076534
+Wheel 0.927477300167
+Vehicle 0.924806118011
+Motor vehicle 0.922957599163
+Tire 0.916554033756
+Automotive tire 0.914147496223
+Automotive mirror 0.908571600914
+Automotive design 0.903877079487
+Hood 0.898909091949
+Rear-view mirror 0.85501909256

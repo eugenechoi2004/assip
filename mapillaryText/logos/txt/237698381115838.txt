@@ -1,0 +1,2 @@
+Nordic Resistance Movement 0.738928616047
+bounds: (753,144),(811,144),(811,199),(753,199)

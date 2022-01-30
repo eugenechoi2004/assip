@@ -1,0 +1,10 @@
+Sky 0.968669712543
+Motor vehicle 0.910060226917
+Automotive lighting 0.905699729919
+Hood 0.897930562496
+Road surface 0.894229829311
+Automotive mirror 0.893960654736
+Tree 0.893046438694
+Asphalt 0.88487803936
+Windscreen wiper 0.853989362717
+Mode of transport 0.85035687685

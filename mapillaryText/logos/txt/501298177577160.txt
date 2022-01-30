@@ -1,0 +1,2 @@
+Cuyahoga Community College 0.585584938526
+bounds: (97,155),(277,155),(277,251),(97,251)

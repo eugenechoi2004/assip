@@ -1,0 +1,6 @@
+Government Museum
+Latitude 12.9747078 Longitude 77.5959723 0.693812608719
+Cubbon Park
+Latitude 12.9763472 Longitude 77.5929284 0.561448574066
+Department of Archaeology and Museums
+Latitude 12.9746647 Longitude 77.5958746 0.338383466005

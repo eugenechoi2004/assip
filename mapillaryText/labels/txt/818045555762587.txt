@@ -1,0 +1,10 @@
+Bus 0.962619483471
+Vehicle 0.940257012844
+Motor vehicle 0.906191885471
+Road surface 0.89863961935
+Infrastructure 0.894038021564
+Vehicle registration plate 0.889790892601
+Tree 0.879777371883
+Asphalt 0.873160660267
+Architecture 0.855202376842
+Thoroughfare 0.8425770998

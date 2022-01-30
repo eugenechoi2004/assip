@@ -1,0 +1,2 @@
+Spartan College of Aeronautics and Technology 0.564425528049
+bounds: (323,7),(381,7),(381,55),(323,55)

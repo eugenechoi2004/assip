@@ -1,0 +1,4 @@
+Cubbon Park
+Latitude 12.9763472 Longitude 77.5929284 0.465169876814
+Mahatma Gandhi Park
+Latitude 12.9771725 Longitude 77.5997522 0.235970973969

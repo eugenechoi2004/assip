@@ -1,0 +1,2 @@
+Carnegie Museum of Natural History 0.560742855072
+bounds: (696,254),(792,254),(792,336),(696,336)

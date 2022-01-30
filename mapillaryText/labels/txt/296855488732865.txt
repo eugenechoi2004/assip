@@ -1,0 +1,10 @@
+Automotive lighting 0.925094127655
+Automotive tail & brake light 0.915800333023
+Motor vehicle 0.905508637428
+Hood 0.901790320873
+Automotive parking light 0.900109350681
+Vehicle 0.892505288124
+Window 0.884564816952
+Automotive design 0.881566941738
+Plant 0.87609565258
+Automotive exterior 0.846439063549

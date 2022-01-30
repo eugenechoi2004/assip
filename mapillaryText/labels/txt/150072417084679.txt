@@ -1,0 +1,10 @@
+Bus 0.973172307014
+Plant 0.961970925331
+Vehicle 0.954703450203
+Car 0.952237010002
+Sky 0.950390040874
+Motor vehicle 0.934848368168
+Vehicle registration plate 0.921418249607
+Automotive tail & brake light 0.918810784817
+Automotive lighting 0.918025910854
+Building 0.89652210474

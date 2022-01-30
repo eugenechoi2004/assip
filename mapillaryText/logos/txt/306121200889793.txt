@@ -1,0 +1,8 @@
+United Bank of India 0.71248793602
+bounds: (295,350),(368,350),(368,445),(295,445)
+Flight Centre Australia 0.604133665562
+bounds: (0,23),(121,23),(121,86),(0,86)
+Mohanlal Sukhadia University 0.581838488579
+bounds: (73,345),(507,345),(507,463),(73,463)
+Denver Broncos 0.551661431789
+bounds: (291,90),(369,90),(369,187),(291,187)

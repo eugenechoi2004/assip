@@ -1,0 +1,2 @@
+Birmingham City University 0.584478020668
+bounds: (189,315),(247,315),(247,366),(189,366)

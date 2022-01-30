@@ -1,0 +1,10 @@
+Water 0.956138670444
+Automotive lighting 0.895229160786
+Road surface 0.87596321106
+Branch 0.867311120033
+Automotive mirror 0.845029950142
+Asphalt 0.841755151749
+Sky 0.841279983521
+Shade 0.825621068478
+Automotive exterior 0.823515594006
+Atmospheric phenomenon 0.822117090225

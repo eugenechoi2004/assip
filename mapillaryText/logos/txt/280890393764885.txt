@@ -1,0 +1,2 @@
+Our Lady of Mount Carmel Secondary School 0.606801867485
+bounds: (398,263),(457,263),(457,321),(398,321)

@@ -1,0 +1,2 @@
+Gangadhar Meher University 0.552767753601
+bounds: (52,261),(132,261),(132,317),(52,317)

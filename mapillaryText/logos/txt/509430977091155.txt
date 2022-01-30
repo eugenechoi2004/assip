@@ -1,0 +1,2 @@
+Kenya Film Classification Board 0.679675400257
+bounds: (199,179),(263,179),(263,241),(199,241)

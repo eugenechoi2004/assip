@@ -1,0 +1,10 @@
+Hood 0.918200671673
+Automotive lighting 0.907290875912
+Motor vehicle 0.894024610519
+Tree 0.889563798904
+Tire 0.883811116219
+Asphalt 0.879368007183
+Automotive tire 0.871733129025
+Road surface 0.871667325497
+Automotive mirror 0.858517169952
+Automotive exterior 0.833593130112

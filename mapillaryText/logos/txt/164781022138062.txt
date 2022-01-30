@@ -1,0 +1,2 @@
+National Library of Australia 0.55889159441
+bounds: (839,19),(1024,19),(1024,224),(839,224)

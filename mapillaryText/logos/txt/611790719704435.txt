@@ -1,0 +1,2 @@
+Fender Musical Instruments Corporation 0.587114810944
+bounds: (423,229),(475,229),(475,269),(423,269)

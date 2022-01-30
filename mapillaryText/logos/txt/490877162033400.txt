@@ -1,0 +1,2 @@
+Westminster School, Adelaide 0.610879600048
+bounds: (84,312),(189,312),(189,360),(84,360)

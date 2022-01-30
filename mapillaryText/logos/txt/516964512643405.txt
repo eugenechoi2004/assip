@@ -1,0 +1,6 @@
+Omega SA 0.706960260868
+bounds: (875,232),(1005,232),(1005,307),(875,307)
+King Fahd University of Petroleum and Minerals 0.621495425701
+bounds: (863,375),(937,375),(937,446),(863,446)
+The Hershey Company 0.61135995388
+bounds: (625,188),(767,188),(767,228),(625,228)

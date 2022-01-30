@@ -1,0 +1,10 @@
+Car 0.972793519497
+Tire 0.967422246933
+Vehicle 0.956305146217
+Automotive tail & brake light 0.950109183788
+Wheel 0.949558377266
+Automotive lighting 0.928227245808
+Motor vehicle 0.924084722996
+Sky 0.920500814915
+Automotive side-view mirror 0.911156117916
+Infrastructure 0.893521666527

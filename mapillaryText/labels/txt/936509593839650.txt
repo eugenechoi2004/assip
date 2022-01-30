@@ -1,0 +1,10 @@
+Sky 0.932914316654
+Hood 0.914483547211
+Automotive lighting 0.892101585865
+Motor vehicle 0.890787243843
+Road surface 0.888000369072
+Plant 0.87701767683
+Asphalt 0.871224164963
+Automotive mirror 0.863181352615
+Street light 0.853461027145
+Automotive exterior 0.836885452271

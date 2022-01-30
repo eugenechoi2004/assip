@@ -1,0 +1,2 @@
+Indian Institute of Technology Madras 0.556220114231
+bounds: (964,224),(1023,224),(1023,285),(964,285)

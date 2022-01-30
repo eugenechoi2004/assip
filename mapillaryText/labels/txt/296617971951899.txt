@@ -1,0 +1,10 @@
+Bus 0.895824015141
+Vehicle 0.87645816803
+Automotive lighting 0.850248515606
+Mode of transport 0.846379995346
+Hood 0.843681097031
+Automotive tire 0.814027786255
+Rolling 0.812341451645
+Rolling stock 0.77177965641
+Vehicle door 0.767320454121
+Motor vehicle 0.750802099705

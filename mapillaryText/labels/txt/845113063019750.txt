@@ -1,0 +1,10 @@
+Automotive parking light 0.9762789011
+Car 0.973567664623
+Land vehicle 0.96564078331
+Wheel 0.961204588413
+Tire 0.959726631641
+Vehicle 0.953870177269
+Sky 0.948332428932
+Automotive side-view mirror 0.938027322292
+Automotive lighting 0.920138299465
+Motor vehicle 0.904621303082

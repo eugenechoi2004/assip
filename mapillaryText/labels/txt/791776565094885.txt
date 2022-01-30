@@ -1,0 +1,10 @@
+Automotive lighting 0.921224057674
+Motor vehicle 0.910498023033
+Plant 0.863164901733
+Automotive mirror 0.858760416508
+Tree 0.850973069668
+Road surface 0.840839982033
+Wheel 0.836547791958
+Windscreen wiper 0.830170571804
+Automotive exterior 0.827456176281
+Window 0.822045922279

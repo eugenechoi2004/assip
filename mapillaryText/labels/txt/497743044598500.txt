@@ -1,0 +1,10 @@
+Automotive lighting 0.852965712547
+Wood 0.811577796936
+Material property 0.800254106522
+Tints and shades 0.771667301655
+Magenta 0.730152904987
+Glass 0.672653496265
+Public transport 0.659501492977
+Flooring 0.644101858139
+Lens flare 0.624352157116
+Rolling stock 0.612860023975

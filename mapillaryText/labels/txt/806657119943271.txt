@@ -1,0 +1,10 @@
+Building 0.954788386822
+Tire 0.919258475304
+Vehicle 0.899704456329
+Infrastructure 0.891414403915
+Window 0.877129912376
+Automotive lighting 0.862470686436
+Vehicle registration plate 0.84342700243
+Mode of transport 0.840234577656
+Motor vehicle 0.840224921703
+Grille 0.811382234097

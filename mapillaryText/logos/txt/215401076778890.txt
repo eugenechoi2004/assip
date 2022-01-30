@@ -1,0 +1,4 @@
+Oakton Community College 0.595864534378
+bounds: (754,207),(838,207),(838,239),(754,239)
+Missouri History Museum 0.555022060871
+bounds: (386,93),(582,93),(582,140),(386,140)

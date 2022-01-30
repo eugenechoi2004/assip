@@ -1,0 +1,10 @@
+Automotive tail & brake light 0.964942872524
+Car 0.93852943182
+Automotive lighting 0.924312949181
+Hood 0.918278694153
+Vehicle 0.915472924709
+Window 0.892048597336
+Motor vehicle 0.888210356236
+Automotive tire 0.880727231503
+Bumper 0.868316531181
+Automotive exterior 0.845786452293

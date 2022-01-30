@@ -1,0 +1,10 @@
+Sky 0.946633338928
+Vehicle 0.941684305668
+Car 0.937768161297
+Automotive tail & brake light 0.931676864624
+Wheel 0.922948241234
+Automotive lighting 0.917717456818
+Motor vehicle 0.896263599396
+Tree 0.895097851753
+Road surface 0.881926655769
+Automotive mirror 0.881618261337

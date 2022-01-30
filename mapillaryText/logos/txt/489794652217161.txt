@@ -1,0 +1,2 @@
+Karnataka Power Corporation 0.60334867239
+bounds: (282,328),(347,328),(347,384),(282,384)

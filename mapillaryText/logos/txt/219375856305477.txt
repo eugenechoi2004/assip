@@ -1,0 +1,2 @@
+American Express Global Business Travel 0.600547075272
+bounds: (598,343),(676,343),(676,394),(598,394)

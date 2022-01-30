@@ -1,0 +1,10 @@
+Car 0.967079520226
+Sky 0.941915094852
+Vehicle 0.930527925491
+Automotive lighting 0.92348253727
+Motor vehicle 0.92240691185
+Automotive mirror 0.908997058868
+Automotive side-view mirror 0.905254483223
+Tree 0.900003910065
+Infrastructure 0.895480036736
+Road surface 0.879526972771

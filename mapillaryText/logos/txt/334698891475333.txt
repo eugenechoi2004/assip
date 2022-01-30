@@ -1,0 +1,2 @@
+Arizona Federal Credit Union 0.584989845753
+bounds: (786,132),(901,132),(901,193),(786,193)

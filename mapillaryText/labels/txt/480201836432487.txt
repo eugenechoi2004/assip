@@ -1,0 +1,10 @@
+Train 0.952197909355
+Automotive lighting 0.887807369232
+Motor vehicle 0.852954447269
+Vehicle 0.84822922945
+Automotive exterior 0.827843248844
+Rolling stock 0.795493423939
+Fixture 0.78865224123
+Public transport 0.750485599041
+Font 0.736086368561
+Vehicle door 0.713501393795

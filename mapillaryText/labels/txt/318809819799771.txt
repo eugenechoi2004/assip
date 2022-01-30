@@ -1,0 +1,10 @@
+Automotive lighting 0.905968129635
+Motor vehicle 0.898425281048
+Tree 0.891299784184
+Vehicle 0.889949679375
+Infrastructure 0.887877702713
+Road surface 0.874496340752
+Asphalt 0.872153103352
+Mode of transport 0.846072137356
+Automotive exterior 0.818872451782
+Thoroughfare 0.807575881481

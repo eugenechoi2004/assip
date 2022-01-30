@@ -1,0 +1,10 @@
+Land vehicle 0.97579395771
+Wheel 0.975522458553
+Tire 0.975225031376
+Vehicle 0.958533525467
+Car 0.944735169411
+Motor vehicle 0.90090405941
+Tree 0.899302899837
+Automotive lighting 0.899218022823
+Bicycles--Equipment and supplies 0.898304522038
+Automotive tire 0.881627559662

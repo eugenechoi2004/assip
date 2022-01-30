@@ -1,0 +1,2 @@
+University of Azad Jammu and Kashmir 0.82382786274
+bounds: (720,409),(780,409),(780,463),(720,463)

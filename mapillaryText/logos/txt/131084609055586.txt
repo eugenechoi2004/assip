@@ -1,0 +1,2 @@
+Thiagarajar College of Engineering 0.651914715767
+bounds: (193,386),(305,386),(305,456),(193,456)

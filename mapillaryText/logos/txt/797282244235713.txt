@@ -1,0 +1,2 @@
+San Francisco Conservatory of Music 0.562837004662
+bounds: (18,86),(79,86),(79,148),(18,148)

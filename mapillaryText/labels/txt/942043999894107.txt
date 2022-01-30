@@ -1,0 +1,10 @@
+Automotive lighting 0.927942097187
+Hood 0.918020963669
+Vehicle 0.907492995262
+Motor vehicle 0.901156544685
+Sky 0.896846055984
+Road surface 0.890790224075
+Automotive tire 0.874118745327
+Asphalt 0.870960772038
+Automotive exterior 0.863095939159
+Mode of transport 0.853020489216

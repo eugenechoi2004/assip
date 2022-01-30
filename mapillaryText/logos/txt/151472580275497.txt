@@ -1,0 +1,2 @@
+Stanford Graduate School of Education 0.596941590309
+bounds: (854,251),(924,251),(924,290),(854,290)

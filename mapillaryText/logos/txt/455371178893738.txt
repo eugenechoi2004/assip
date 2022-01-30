@@ -1,0 +1,2 @@
+American International Group 0.726106762886
+bounds: (1,181),(101,181),(101,239),(1,239)

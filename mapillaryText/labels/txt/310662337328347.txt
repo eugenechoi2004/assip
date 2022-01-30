@@ -1,0 +1,10 @@
+Sky 0.905678510666
+Road surface 0.888781487942
+Asphalt 0.856882452965
+Thoroughfare 0.844753265381
+Mode of transport 0.841982662678
+Atmospheric phenomenon 0.830320417881
+Tree 0.823150396347
+Building 0.810222864151
+Neighbourhood 0.807855308056
+Residential area 0.799936890602

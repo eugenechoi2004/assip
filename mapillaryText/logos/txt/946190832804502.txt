@@ -1,0 +1,2 @@
+The Automobile Association 0.559823036194
+bounds: (0,410),(77,410),(77,488),(0,488)

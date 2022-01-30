@@ -1,0 +1,10 @@
+Wheel 0.94750136137
+Tire 0.932854473591
+Motor vehicle 0.93247961998
+Combat vehicle 0.926159322262
+Vehicle 0.922122597694
+Automotive tire 0.919203817844
+Automotive lighting 0.870301365852
+Automotive exterior 0.845852315426
+Tread 0.837999999523
+Self-propelled artillery 0.837743103504

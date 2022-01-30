@@ -1,0 +1,10 @@
+Car 0.966785013676
+Plant 0.964754104614
+Land vehicle 0.963974475861
+Vehicle 0.949037492275
+Helmet 0.938196778297
+Vehicle registration plate 0.937062323093
+Automotive lighting 0.919762909412
+Motor vehicle 0.899727463722
+Road surface 0.885219812393
+Street light 0.877782225609

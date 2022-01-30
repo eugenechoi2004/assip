@@ -1,0 +1,4 @@
+Radio Programas del Perú 0.796880125999
+bounds: (722,0),(1020,0),(1020,348),(722,348)
+Providence Equity Partners 0.563169360161
+bounds: (309,161),(421,161),(421,230),(309,230)

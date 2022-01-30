@@ -1,0 +1,2 @@
+ICICI Prudential Mutual Fund 0.809952437878
+bounds: (289,531),(346,531),(346,584),(289,584)

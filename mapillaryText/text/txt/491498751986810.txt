@@ -1,0 +1,14 @@
+corpon
+SHIRTINGS
+toola Sale
+poration
+Sudarsh
+Strivaaru
+ 0.0 bounds: (65,2),(840,2),(840,317),(65,317)
+corpon 0.0 bounds: (789,2),(815,2),(815,9),(789,9)
+SHIRTINGS 0.0 bounds: (68,7),(147,21),(144,36),(65,22)
+toola 0.0 bounds: (68,24),(106,31),(104,46),(65,40)
+Sale 0.0 bounds: (113,32),(143,37),(140,53),(110,48)
+poration 0.0 bounds: (72,47),(143,58),(141,70),(70,59)
+Sudarsh 0.0 bounds: (412,77),(463,76),(463,92),(412,93)
+Strivaaru 0.0 bounds: (617,238),(804,154),(840,234),(653,317)

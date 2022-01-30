@@ -1,0 +1,4 @@
+Centre des monuments nationaux 0.704240500927
+bounds: (112,292),(222,292),(222,339),(112,339)
+Tampa Bay Buccaneers 0.55391561985
+bounds: (911,221),(1015,221),(1015,262),(911,262)

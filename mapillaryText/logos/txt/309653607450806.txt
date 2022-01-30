@@ -1,0 +1,2 @@
+Delhi Metro Rail Corporation 0.596710026264
+bounds: (240,231),(318,231),(318,361),(240,361)

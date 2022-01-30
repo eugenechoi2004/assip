@@ -1,0 +1,10 @@
+Sky 0.95141351223
+Plant 0.907972574234
+Road surface 0.899154067039
+Natural landscape 0.874073445797
+Asphalt 0.862423837185
+Tree 0.852779388428
+Thoroughfare 0.831680357456
+Atmospheric phenomenon 0.823527395725
+Woody plant 0.811839401722
+Automotive lighting 0.809641897678

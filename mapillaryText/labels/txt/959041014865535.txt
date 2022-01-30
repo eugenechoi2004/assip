@@ -1,0 +1,10 @@
+Sky 0.964638471603
+Wheel 0.96240824461
+Tire 0.959413766861
+Vehicle 0.93947583437
+Motor vehicle 0.934156060219
+Automotive tire 0.920514822006
+Automotive lighting 0.916911959648
+Automotive mirror 0.90187817812
+Automotive design 0.897678017616
+Infrastructure 0.892074644566

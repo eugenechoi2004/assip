@@ -1,0 +1,10 @@
+Automotive parking light 0.978530824184
+Car 0.969407141209
+Automotive side-view mirror 0.96134531498
+Automotive tail & brake light 0.948906958103
+Vehicle 0.945941448212
+Building 0.934900641441
+Vehicle registration plate 0.933613657951
+Motor vehicle 0.932111859322
+Window 0.926601588726
+Automotive lighting 0.921115458012

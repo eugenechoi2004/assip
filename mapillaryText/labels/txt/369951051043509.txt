@@ -1,0 +1,10 @@
+Road surface 0.890713274479
+Infrastructure 0.889635682106
+Asphalt 0.879448771477
+High-visibility clothing 0.877478122711
+Building 0.877289950848
+Mode of transport 0.846254587173
+Street fashion 0.831735789776
+Sidewalk 0.806100785732
+Travel 0.803264796734
+Thoroughfare 0.797716617584

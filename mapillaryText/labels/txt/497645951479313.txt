@@ -1,0 +1,10 @@
+Vehicle 0.945036113262
+Automotive lighting 0.923986375332
+Mirror 0.920839369297
+Hood 0.917151987553
+Motor vehicle 0.915321409702
+Automotive mirror 0.911346316338
+Automotive design 0.892299771309
+Automotive side-view mirror 0.88143825531
+Steering part 0.876303732395
+Steering wheel 0.867791593075

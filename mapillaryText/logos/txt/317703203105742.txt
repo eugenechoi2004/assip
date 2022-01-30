@@ -1,0 +1,2 @@
+Merv Griffin Enterprises 0.567127108574
+bounds: (2,278),(123,278),(123,324),(2,324)

@@ -1,0 +1,10 @@
+Wheel 0.980170488358
+Tire 0.977728128433
+Land vehicle 0.97109413147
+Vehicle 0.948869943619
+Building 0.927506864071
+Motor vehicle 0.921917319298
+Helmet 0.917376756668
+Automotive lighting 0.914576172829
+Vehicle registration plate 0.910320818424
+Automotive tire 0.906421601772

@@ -1,0 +1,2 @@
+Petersen Automotive Museum 0.56991314888
+bounds: (531,425),(629,425),(629,471),(531,471)

@@ -1,0 +1,2 @@
+Indian Institute of Management Bangalore 0.608803570271
+bounds: (717,417),(787,417),(787,484),(717,484)

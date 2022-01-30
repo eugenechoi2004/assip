@@ -1,0 +1,10 @@
+Tire 0.961280107498
+Wheel 0.929180443287
+Truck 0.907047390938
+Motor vehicle 0.899748504162
+Vehicle 0.88132506609
+Asphalt 0.858309686184
+Light commercial vehicle 0.857404351234
+Road surface 0.818539917469
+Automotive exterior 0.793385624886
+Commercial vehicle 0.764497876167

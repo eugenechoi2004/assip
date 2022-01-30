@@ -1,0 +1,10 @@
+Automotive parking light 0.976864993572
+Car 0.974929392338
+Vehicle 0.956096053123
+Motor vehicle 0.944352149963
+Photograph 0.941369354725
+Automotive lighting 0.930536389351
+Automotive tail & brake light 0.91607439518
+Light 0.910798311234
+Automotive design 0.902302145958
+Infrastructure 0.8934289217

@@ -1,0 +1,10 @@
+Bus 0.97840821743
+Automotive parking light 0.975028455257
+Car 0.962718486786
+Vehicle 0.954829633236
+Sky 0.954672574997
+Vehicle registration plate 0.944749474525
+Motor vehicle 0.930741727352
+Plant 0.909619212151
+Automotive lighting 0.895003497601
+Tour bus service 0.874254584312

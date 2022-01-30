@@ -1,0 +1,2 @@
+Lions Clubs International 0.622985839844
+bounds: (49,29),(119,29),(119,94),(49,94)

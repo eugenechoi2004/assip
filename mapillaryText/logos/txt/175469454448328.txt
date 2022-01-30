@@ -1,0 +1,4 @@
+Robert Morgan Educational Center 0.641684412956
+bounds: (360,3),(413,3),(413,106),(360,106)
+Omaha Steaks 0.572991251945
+bounds: (251,119),(395,119),(395,205),(251,205)

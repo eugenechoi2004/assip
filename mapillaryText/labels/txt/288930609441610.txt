@@ -1,0 +1,10 @@
+Automotive parking light 0.973487436771
+Tire 0.971090316772
+Wheel 0.969833433628
+Vehicle 0.95992898941
+Sky 0.952665448189
+Motor vehicle 0.936525583267
+Cloud 0.925626397133
+Automotive exterior 0.856494426727
+Mode of transport 0.846007227898
+Automotive wheel system 0.832014977932

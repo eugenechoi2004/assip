@@ -1,0 +1,10 @@
+Tire 0.934174835682
+Motor vehicle 0.926052212715
+Automotive lighting 0.921543598175
+Vehicle 0.916469216347
+Wheel 0.893482267857
+Automotive tire 0.891996204853
+Automotive design 0.887757897377
+Asphalt 0.828796207905
+Automotive exterior 0.82502412796
+Automotive wheel system 0.789619386196

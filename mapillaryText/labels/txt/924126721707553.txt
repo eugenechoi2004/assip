@@ -1,0 +1,10 @@
+Sky 0.952214956284
+Road surface 0.892050266266
+Infrastructure 0.887937068939
+Tree 0.882707715034
+Motor vehicle 0.882620334625
+Asphalt 0.8801856637
+Automotive tire 0.875202953815
+Fixture 0.867509126663
+Mode of transport 0.854448676109
+Atmospheric phenomenon 0.839114546776

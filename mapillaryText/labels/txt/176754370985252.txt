@@ -1,0 +1,10 @@
+Car 0.928202748299
+Vehicle 0.924976229668
+Automotive lighting 0.922011375427
+Motor vehicle 0.903046071529
+Tire 0.895261824131
+Automotive design 0.867571353912
+Mode of transport 0.84642881155
+Automotive exterior 0.845835745335
+Automotive tire 0.821325361729
+Vehicle registration plate 0.804630637169

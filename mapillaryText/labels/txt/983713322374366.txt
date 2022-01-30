@@ -1,0 +1,10 @@
+Car 0.959471285343
+Vehicle 0.944594681263
+Motor vehicle 0.930625021458
+Automotive design 0.913237929344
+Automotive mirror 0.907408237457
+Steering part 0.896892786026
+Automotive lighting 0.876013576984
+Steering wheel 0.874188065529
+Automotive side-view mirror 0.872941792011
+Mode of transport 0.859982669353

@@ -1,0 +1,2 @@
+California Science Center 0.59419375658
+bounds: (109,1),(562,1),(562,116),(109,116)

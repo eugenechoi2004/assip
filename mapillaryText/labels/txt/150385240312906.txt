@@ -1,0 +1,10 @@
+Car 0.980908095837
+Wheel 0.977866649628
+Tire 0.977277457714
+Vehicle 0.970258116722
+Land vehicle 0.965661227703
+Automotive tail & brake light 0.954556524754
+Vehicle registration plate 0.939254701138
+Sky 0.928934931755
+Automotive tire 0.919798672199
+Automotive lighting 0.917716145515

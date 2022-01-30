@@ -1,0 +1,10 @@
+Automotive tire 0.846235394478
+Grey 0.842010200024
+Asphalt 0.830764353275
+Building 0.800462961197
+Flash photography 0.784130215645
+Road surface 0.777640104294
+Tints and shades 0.772177278996
+Composite material 0.771124064922
+Automotive lighting 0.764852643013
+Rolling 0.76386320591

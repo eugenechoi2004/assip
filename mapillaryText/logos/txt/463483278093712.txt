@@ -1,0 +1,2 @@
+Athens University of Economics and Business 0.557154417038
+bounds: (860,97),(923,97),(923,170),(860,170)

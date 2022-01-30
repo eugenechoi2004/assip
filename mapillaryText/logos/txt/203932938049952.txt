@@ -1,0 +1,2 @@
+Honda Manufacturing of Alabama 0.557854413986
+bounds: (813,261),(885,261),(885,300),(813,300)

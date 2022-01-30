@@ -1,0 +1,10 @@
+Motor vehicle 0.889452040195
+Shade 0.832840561867
+Font 0.808721959591
+Automotive exterior 0.805739223957
+Tints and shades 0.772934138775
+Automotive wheel system 0.756458640099
+Commercial vehicle 0.741558492184
+Vehicle door 0.737211287022
+Graffiti 0.735304892063
+Auto part 0.725577294827

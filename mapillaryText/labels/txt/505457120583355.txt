@@ -1,0 +1,10 @@
+Vehicle 0.9241065979
+Car 0.90985584259
+Automotive lighting 0.904768705368
+Tree 0.88583278656
+Motor vehicle 0.885064840317
+Road surface 0.877295553684
+Asphalt 0.874779224396
+Automotive exterior 0.823092281818
+Neighbourhood 0.821413695812
+Automotive design 0.815240681171

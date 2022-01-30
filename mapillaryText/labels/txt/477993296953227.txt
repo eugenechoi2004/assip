@@ -1,0 +1,10 @@
+Sky 0.959428548813
+Tire 0.947182238102
+Vehicle 0.916634917259
+Motor vehicle 0.910231649876
+Automotive lighting 0.906601965427
+Car 0.901798307896
+Wheel 0.895779490471
+Vehicle registration plate 0.890952646732
+Tour bus service 0.858363509178
+Automotive tire 0.85116815567

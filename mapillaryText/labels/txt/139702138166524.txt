@@ -1,0 +1,10 @@
+Automotive parking light 0.975571393967
+Car 0.966823399067
+Vehicle 0.94493752718
+Automotive tail & brake light 0.937564074993
+Automotive lighting 0.914862155914
+Light 0.911900818348
+Atmospheric phenomenon 0.863666057587
+Automotive exterior 0.863146066666
+Tree 0.860246837139
+Mode of transport 0.853209853172

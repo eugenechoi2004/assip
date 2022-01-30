@@ -1,0 +1,4 @@
+Minsk Square
+Latitude 12.9815135 Longitude 77.5967748 0.561297416687
+Cubbon Park
+Latitude 12.9763472 Longitude 77.5929284 0.213952332735

@@ -1,0 +1,2 @@
+Horry Telephone Cooperative 0.639733016491
+bounds: (0,61),(134,61),(134,109),(0,109)

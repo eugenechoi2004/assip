@@ -1,0 +1,2 @@
+Prince Sattam Bin Abdulaziz University 0.560622870922
+bounds: (277,485),(342,485),(342,531),(277,531)

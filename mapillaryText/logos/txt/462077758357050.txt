@@ -1,0 +1,6 @@
+Emilio Aguinaldo College 0.664082109928
+bounds: (371,647),(441,647),(441,707),(371,707)
+Indiana University Bloomington 0.612934887409
+bounds: (544,639),(603,639),(603,695),(544,695)
+Joe & The Juice 0.594156205654
+bounds: (865,639),(926,639),(926,695),(865,695)

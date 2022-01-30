@@ -1,0 +1,2 @@
+Vishwakarma Institute of Technology 0.711776256561
+bounds: (344,266),(398,266),(398,300),(344,300)

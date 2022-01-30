@@ -1,0 +1,10 @@
+Land vehicle 0.971326351166
+Vehicle 0.941999614239
+Car 0.931655228138
+Motor vehicle 0.922845005989
+Automotive tail & brake light 0.920073211193
+Automotive lighting 0.907862246037
+Sky 0.906648278236
+Tree 0.886099457741
+Tire 0.882015347481
+Automotive carrying rack 0.875424325466

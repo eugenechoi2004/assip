@@ -1,0 +1,2 @@
+Milwaukee Electric Tool Corporation 0.556053459644
+bounds: (86,130),(191,130),(191,210),(86,210)

@@ -1,0 +1,10 @@
+Automotive parking light 0.975924372673
+Car 0.974550902843
+Vehicle 0.952253222466
+Motor vehicle 0.92078101635
+Automotive lighting 0.911281108856
+Hood 0.884167432785
+Asphalt 0.879970550537
+Tree 0.859810948372
+Automotive exterior 0.854427754879
+Automotive design 0.853706538677

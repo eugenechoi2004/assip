@@ -1,0 +1,10 @@
+Vehicle 0.935928821564
+Car 0.930769026279
+Motor vehicle 0.923435926437
+Automotive lighting 0.915832281113
+Hood 0.90740275383
+Green 0.899494588375
+Automotive design 0.876308917999
+Vehicle registration plate 0.872804105282
+Asphalt 0.868665754795
+Mode of transport 0.849341213703

@@ -1,0 +1,6 @@
+ST.JOSEPH'S INSTITUTIONS
+posaorastaennocat
+ 0.0 bounds: (88,332),(248,332),(248,373),(88,373)
+ST.JOSEPH'S 0.0 bounds: (89,332),(165,338),(164,349),(88,343)
+INSTITUTIONS 0.0 bounds: (173,338),(248,344),(247,355),(172,349)
+posaorastaennocat 0.0 bounds: (212,374),(122,369),(123,359),(213,364)

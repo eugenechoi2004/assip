@@ -1,0 +1,10 @@
+Window 0.924302697182
+Automotive lighting 0.89382392168
+Automotive mirror 0.880860984325
+Vehicle 0.875198841095
+Motor vehicle 0.845600664616
+Automotive exterior 0.806605219841
+Vehicle door 0.804629206657
+Rear-view mirror 0.784795582294
+Tints and shades 0.76923418045
+Tree 0.768507540226

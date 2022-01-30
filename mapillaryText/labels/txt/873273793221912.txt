@@ -1,0 +1,10 @@
+Tire 0.982669830322
+Wheel 0.981936216354
+Land vehicle 0.960009813309
+Vehicle 0.955511987209
+Automotive tire 0.924110174179
+Motor vehicle 0.920668125153
+Asphalt 0.876577913761
+Mode of transport 0.858065605164
+Automotive exterior 0.85063546896
+Automotive design 0.844332695007

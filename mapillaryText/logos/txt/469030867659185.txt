@@ -1,0 +1,2 @@
+Ferrari World Abu Dhabi 0.639491975307
+bounds: (2,1),(62,1),(62,59),(2,59)

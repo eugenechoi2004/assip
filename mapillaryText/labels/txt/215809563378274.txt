@@ -1,0 +1,10 @@
+Car 0.980495214462
+Wheel 0.977787196636
+Land vehicle 0.975818872452
+Tire 0.974092662334
+Vehicle 0.962556064129
+Suzuki swift 0.940712332726
+Motor vehicle 0.918715178967
+Vehicle registration plate 0.914427042007
+Infrastructure 0.889854073524
+Automotive design 0.881261050701

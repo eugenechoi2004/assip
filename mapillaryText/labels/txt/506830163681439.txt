@@ -1,0 +1,10 @@
+Car 0.966208100319
+Land vehicle 0.959819614887
+Vehicle registration plate 0.955702006817
+Vehicle 0.953127145767
+Automotive tail & brake light 0.951366901398
+Automotive side-view mirror 0.93662661314
+Automotive lighting 0.92642813921
+Motor vehicle 0.910782575607
+Automotive design 0.896506369114
+Mode of transport 0.866118490696

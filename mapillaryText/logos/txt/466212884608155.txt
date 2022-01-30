@@ -1,0 +1,2 @@
+California State University Channel Islands 0.681425988674
+bounds: (49,456),(124,456),(124,532),(49,532)

@@ -1,0 +1,10 @@
+Motor vehicle 0.923500657082
+Vehicle 0.920241951942
+Car 0.913291871548
+Automotive lighting 0.912932991982
+Automotive mirror 0.908641338348
+Mirror 0.908475041389
+Automotive side-view mirror 0.899378657341
+Hood 0.899235010147
+Automotive design 0.891259908676
+Mode of transport 0.857031643391

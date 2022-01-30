@@ -1,0 +1,10 @@
+Cloud 0.97820353508
+Sky 0.961163401604
+Bicycles--Equipment and supplies 0.943186998367
+Street light 0.926364064217
+Wheel 0.922704219818
+Vehicle 0.922616541386
+Automotive lighting 0.906596302986
+Helmet 0.898508548737
+Bicycle tire 0.89475363493
+Road surface 0.883977711201

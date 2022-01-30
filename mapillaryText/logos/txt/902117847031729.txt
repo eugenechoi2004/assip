@@ -1,0 +1,2 @@
+Quince Orchard High School 0.648862183094
+bounds: (61,142),(114,142),(114,265),(61,265)

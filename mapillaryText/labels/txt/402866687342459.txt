@@ -1,0 +1,10 @@
+Cloud 0.978390932083
+Sky 0.965977072716
+Street light 0.897256195545
+Road surface 0.892485678196
+Asphalt 0.888368844986
+Infrastructure 0.888230919838
+Thoroughfare 0.836636483669
+Electricity 0.834697008133
+Atmospheric phenomenon 0.830451071262
+Overhead power line 0.798321306705

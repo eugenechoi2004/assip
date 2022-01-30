@@ -1,0 +1,10 @@
+Plant 0.902244269848
+Automotive lighting 0.89943665266
+Motor vehicle 0.892853438854
+Vehicle registration plate 0.882005393505
+Branch 0.872396767139
+Vehicle 0.864724338055
+Tree 0.858744084835
+Sky 0.85482943058
+Vegetation 0.854239046574
+Mode of transport 0.840340256691

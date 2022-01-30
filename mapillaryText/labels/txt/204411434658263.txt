@@ -1,0 +1,10 @@
+Car 0.945608794689
+Vehicle 0.922548532486
+Automotive lighting 0.919882118702
+Infrastructure 0.895423948765
+Motor vehicle 0.886442959309
+Automotive mirror 0.883670806885
+Plant 0.872548282146
+Architecture 0.859978735447
+Mode of transport 0.859223306179
+Road surface 0.854533553123

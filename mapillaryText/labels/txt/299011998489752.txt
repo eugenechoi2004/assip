@@ -1,0 +1,10 @@
+Car 0.964822173119
+Vehicle 0.934957206249
+Motor vehicle 0.929168581963
+Automotive lighting 0.926139593124
+Automotive design 0.899977505207
+Automotive mirror 0.882810175419
+Asphalt 0.876560151577
+Road surface 0.87281614542
+Automotive exterior 0.850778162479
+Thoroughfare 0.811508834362

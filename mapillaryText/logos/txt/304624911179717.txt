@@ -1,0 +1,2 @@
+University of Gastronomic Sciences 0.562149167061
+bounds: (355,122),(418,122),(418,167),(355,167)

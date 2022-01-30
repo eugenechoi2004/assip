@@ -1,0 +1,10 @@
+Automotive tire 0.91302126646
+Automotive lighting 0.904042720795
+Plant 0.896883308887
+Vehicle 0.87585824728
+Motor vehicle 0.864919424057
+Road surface 0.861579477787
+Asphalt 0.836706340313
+Automotive exterior 0.829778671265
+Tree 0.806884944439
+Tints and shades 0.772295355797

@@ -1,0 +1,2 @@
+Yashwantrao Chavan Maharashtra Open University 0.760073006153
+bounds: (114,1),(202,1),(202,71),(114,71)

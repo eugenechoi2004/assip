@@ -1,0 +1,2 @@
+Narasaraopeta Engineering College 0.554005324841
+bounds: (860,331),(974,331),(974,396),(860,396)

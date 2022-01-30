@@ -1,0 +1,6 @@
+Atria Convergence Technologies 0.883250057697
+bounds: (503,287),(562,287),(562,368),(503,368)
+Gudlavalleru Engineering College 0.772340893745
+bounds: (307,470),(378,470),(378,569),(307,569)
+Midas 0.616409063339
+bounds: (12,168),(222,168),(222,313),(12,313)

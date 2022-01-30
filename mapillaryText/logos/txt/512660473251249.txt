@@ -1,0 +1,4 @@
+Café Coffee Day 0.924121260643
+bounds: (62,85),(144,85),(144,202),(62,202)
+Yashwantrao Chavan Maharashtra Open University 0.680484175682
+bounds: (401,30),(467,30),(467,97),(401,97)

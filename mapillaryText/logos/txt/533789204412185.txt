@@ -1,0 +1,2 @@
+Metropolitan Filmexport 0.55500203371
+bounds: (1,147),(127,147),(127,327),(1,327)

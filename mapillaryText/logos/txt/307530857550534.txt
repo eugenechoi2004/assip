@@ -1,0 +1,2 @@
+Alliance Defending Freedom 0.720547795296
+bounds: (259,290),(312,290),(312,342),(259,342)

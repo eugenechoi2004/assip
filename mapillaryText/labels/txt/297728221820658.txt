@@ -1,0 +1,10 @@
+Automotive parking light 0.97849971056
+Car 0.975595653057
+Land vehicle 0.970843732357
+Wheel 0.964151203632
+Vehicle 0.963633954525
+Tire 0.963227152824
+Automotive tail & brake light 0.956214725971
+Sky 0.947231054306
+Automotive lighting 0.922058999538
+Infrastructure 0.899213731289

@@ -1,0 +1,10 @@
+Mode of transport 0.851436793804
+Automotive exterior 0.809090614319
+Gas 0.778830468655
+Automotive lighting 0.774285912514
+Technology 0.764439165592
+Font 0.739136874676
+Tints and shades 0.736274302006
+Glass 0.732401490211
+Automotive mirror 0.727200090885
+Windshield 0.706427872181

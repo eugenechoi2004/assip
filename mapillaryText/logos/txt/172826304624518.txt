@@ -1,0 +1,2 @@
+Alice Springs Reptile Centre 0.559926748276
+bounds: (891,492),(1002,492),(1002,541),(891,541)

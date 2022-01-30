@@ -1,0 +1,10 @@
+Cloud 0.976160824299
+Car 0.972193360329
+Sky 0.971484005451
+Vehicle 0.953551471233
+Automotive tail & brake light 0.939955592155
+Automotive lighting 0.929317116737
+Motor vehicle 0.914646565914
+Infrastructure 0.901284456253
+Asphalt 0.881590485573
+Road surface 0.87380027771

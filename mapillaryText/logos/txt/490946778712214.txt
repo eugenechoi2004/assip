@@ -1,0 +1,2 @@
+Herron School of Art and Design 0.647119879723
+bounds: (36,40),(183,40),(183,84),(36,84)

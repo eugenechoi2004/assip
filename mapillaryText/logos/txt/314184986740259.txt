@@ -1,0 +1,2 @@
+Instituto Thomas Jefferson 0.612942814827
+bounds: (33,208),(88,208),(88,286),(33,286)

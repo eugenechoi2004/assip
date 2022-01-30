@@ -1,0 +1,10 @@
+Car 0.980636298656
+Automotive parking light 0.974198460579
+Land vehicle 0.963728189468
+Vehicle 0.959570646286
+Motor vehicle 0.922733485699
+Mode of transport 0.865257501602
+Automotive lighting 0.861921727657
+Asphalt 0.857223927975
+Building 0.852838516235
+Automotive exterior 0.851900935173

@@ -1,0 +1,10 @@
+Tire 0.97012501955
+Wheel 0.969448268414
+Motor vehicle 0.917798042297
+Vehicle 0.883240401745
+Tree 0.878836512566
+Mode of transport 0.853745520115
+Automotive exterior 0.825042426586
+Light commercial vehicle 0.81036067009
+Shade 0.810173213482
+Commercial vehicle 0.796336531639

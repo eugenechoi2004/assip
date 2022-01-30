@@ -1,0 +1,10 @@
+Bus 0.977677404881
+Vehicle 0.956396281719
+Motor vehicle 0.929499983788
+Automotive lighting 0.922664046288
+Vehicle registration plate 0.921363592148
+Tire 0.914754152298
+Blue 0.904110193253
+Automotive tire 0.901790142059
+Automotive exterior 0.869096398354
+Mode of transport 0.85914683342

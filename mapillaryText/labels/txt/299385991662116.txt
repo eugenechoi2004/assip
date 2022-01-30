@@ -1,0 +1,10 @@
+Automotive side-view mirror 0.954289972782
+Vehicle 0.936227738857
+Car 0.93456941843
+Window 0.930214345455
+Motor vehicle 0.929770708084
+Automotive lighting 0.924416780472
+Hood 0.918246269226
+Automotive mirror 0.909405112267
+Windscreen wiper 0.866877675056
+Automotive exterior 0.865514576435

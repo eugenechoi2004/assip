@@ -1,0 +1,10 @@
+Vehicle 0.948196291924
+Motor vehicle 0.926172316074
+Automotive lighting 0.899992346764
+Asphalt 0.858166456223
+Mode of transport 0.84740447998
+Public transport 0.797012627125
+Road surface 0.780436336994
+Metropolitan area 0.757742166519
+Road 0.752778053284
+City 0.750789821148

@@ -1,0 +1,10 @@
+Bus 0.972223818302
+Vehicle 0.95497494936
+Sky 0.933082163334
+Motor vehicle 0.928852498531
+Automotive side-view mirror 0.912681162357
+Plant 0.901750206947
+Tree 0.901358008385
+Asphalt 0.870602309704
+Vehicle registration plate 0.865294218063
+Automotive lighting 0.847061574459

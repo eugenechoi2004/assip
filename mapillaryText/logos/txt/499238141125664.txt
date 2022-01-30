@@ -1,0 +1,2 @@
+Appalachian State University 0.747510313988
+bounds: (111,150),(178,150),(178,210),(111,210)

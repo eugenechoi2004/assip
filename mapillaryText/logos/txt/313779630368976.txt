@@ -1,0 +1,2 @@
+Sompo Japan Nipponkoa Holdings 0.653504490852
+bounds: (70,118),(149,118),(149,186),(70,186)

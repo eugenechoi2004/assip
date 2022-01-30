@@ -1,0 +1,2 @@
+Bhaichung Bhutia Football Schools 0.695693850517
+bounds: (179,143),(283,143),(283,252),(179,252)

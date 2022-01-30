@@ -1,0 +1,4 @@
+Sri Sri University 0.674376606941
+bounds: (869,146),(930,146),(930,207),(869,207)
+Fayetteville State University 0.583701372147
+bounds: (334,115),(669,115),(669,235),(334,235)

@@ -1,0 +1,10 @@
+Car 0.972624599934
+Land vehicle 0.966115355492
+Vehicle 0.952901303768
+Automotive lighting 0.919427990913
+Plant 0.909418046474
+Motor vehicle 0.901611983776
+Vehicle registration plate 0.890753269196
+Infrastructure 0.889161944389
+Automotive design 0.885144948959
+Sky 0.877915203571

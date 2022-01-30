@@ -1,0 +1,10 @@
+Plant 0.944519102573
+Vehicle 0.941158413887
+Automotive lighting 0.921393334866
+Sky 0.915387094021
+Automotive tire 0.911332547665
+Automotive mirror 0.89667403698
+Motor vehicle 0.892489314079
+Road surface 0.877675592899
+Automotive design 0.862022101879
+Asphalt 0.860409617424

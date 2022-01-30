@@ -1,0 +1,2 @@
+Lesotho Football Association 0.567324459553
+bounds: (103,9),(198,9),(198,62),(103,62)

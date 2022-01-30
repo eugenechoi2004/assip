@@ -1,0 +1,10 @@
+Truck 0.942971765995
+Sky 0.924882829189
+Plant 0.916042804718
+Vehicle 0.907966017723
+Vehicle registration plate 0.8878942132
+Motor vehicle 0.883255720139
+Road surface 0.88186442852
+Asphalt 0.864383041859
+Tree 0.859831631184
+Light commercial vehicle 0.8342435956

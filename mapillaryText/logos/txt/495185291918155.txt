@@ -1,0 +1,2 @@
+Sunnybank State High School 0.587895154953
+bounds: (472,309),(529,309),(529,368),(472,368)

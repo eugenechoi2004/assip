@@ -1,0 +1,2 @@
+Board of Intermediate and Secondary Education, Multan 0.622301876545
+bounds: (157,89),(216,89),(216,168),(157,168)

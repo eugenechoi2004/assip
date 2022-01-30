@@ -1,0 +1,10 @@
+Wheel 0.975569784641
+Tire 0.973918914795
+Vehicle 0.954328179359
+Car 0.943877637386
+Automotive side-view mirror 0.915903270245
+Automotive tire 0.915619552135
+Vehicle registration plate 0.915529608727
+Window 0.900980830193
+Building 0.900049090385
+Motor vehicle 0.898852705956

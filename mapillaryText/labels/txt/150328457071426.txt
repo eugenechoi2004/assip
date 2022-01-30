@@ -1,0 +1,10 @@
+Motor vehicle 0.922078669071
+Automotive lighting 0.900625169277
+Asphalt 0.882881581783
+Road surface 0.881963551044
+Sky 0.871687293053
+Tree 0.859792113304
+Mode of transport 0.858472287655
+Motorcycle helmet 0.852168262005
+Automotive exterior 0.842921078205
+Helmet 0.826312422752

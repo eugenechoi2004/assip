@@ -1,0 +1,10 @@
+Car 0.92495816946
+Motor vehicle 0.921548604965
+Vehicle 0.909796774387
+Tire 0.900796890259
+Road surface 0.894611001015
+Asphalt 0.889648020267
+Automotive tire 0.857828974724
+Mode of transport 0.85693860054
+Automotive exterior 0.840901196003
+Thoroughfare 0.84084969759

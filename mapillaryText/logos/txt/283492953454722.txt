@@ -1,0 +1,2 @@
+Mexico national football team 0.55904340744
+bounds: (509,437),(599,437),(599,478),(509,478)

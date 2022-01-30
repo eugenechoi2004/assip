@@ -1,0 +1,2 @@
+Abraham Moss Community School 0.591300010681
+bounds: (872,381),(924,381),(924,410),(872,410)

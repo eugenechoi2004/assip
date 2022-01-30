@@ -1,0 +1,2 @@
+Harbin Institute of Technology 0.563626229763
+bounds: (155,1),(255,1),(255,77),(155,77)

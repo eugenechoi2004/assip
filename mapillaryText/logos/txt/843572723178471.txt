@@ -1,0 +1,4 @@
+Goodyear Tire and Rubber Company 0.932470917702
+bounds: (462,38),(700,38),(700,187),(462,187)
+Firestone Tire and Rubber Company 0.814605116844
+bounds: (868,207),(938,207),(938,262),(868,262)

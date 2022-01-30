@@ -1,0 +1,10 @@
+Automotive parking light 0.966828584671
+Car 0.959722220898
+Vehicle 0.934713602066
+Automotive lighting 0.923317909241
+Motor vehicle 0.920773148537
+Automotive design 0.888897657394
+Asphalt 0.878301799297
+Road surface 0.875125050545
+Automotive mirror 0.872017979622
+Automotive exterior 0.845195114613

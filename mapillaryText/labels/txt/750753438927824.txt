@@ -1,0 +1,10 @@
+Automotive lighting 0.921540617943
+Tire 0.918840587139
+Automotive tire 0.906873822212
+Motor vehicle 0.897867143154
+Wheel 0.891288995743
+Road surface 0.881161391735
+Asphalt 0.86079376936
+Mode of transport 0.841132819653
+Sports equipment 0.819570362568
+Motorcycle 0.812131285667

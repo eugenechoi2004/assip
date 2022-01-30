@@ -1,0 +1,10 @@
+Vehicle 0.940800786018
+Motor vehicle 0.931394636631
+Hood 0.91780591011
+Car 0.912403821945
+Automotive mirror 0.900267601013
+Automotive design 0.893760025501
+Automotive lighting 0.871611177921
+Automotive tire 0.862256348133
+Automotive exterior 0.855234563351
+Steering wheel 0.83180975914

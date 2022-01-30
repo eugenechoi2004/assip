@@ -1,0 +1,10 @@
+Motor vehicle 0.925268888474
+Automotive lighting 0.920713245869
+Hood 0.91819447279
+Automotive tire 0.894739210606
+Automotive mirror 0.886250138283
+Automotive exterior 0.861105322838
+Mode of transport 0.852936506271
+Asphalt 0.836744844913
+Road surface 0.833915889263
+Windscreen wiper 0.827866077423

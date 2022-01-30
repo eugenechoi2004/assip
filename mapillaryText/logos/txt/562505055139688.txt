@@ -1,0 +1,2 @@
+Palos Verdes Peninsula High School 0.553460299969
+bounds: (177,447),(263,447),(263,486),(177,486)

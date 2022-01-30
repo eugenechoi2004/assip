@@ -1,0 +1,10 @@
+Tire 0.978592991829
+Wheel 0.977415144444
+Car 0.965657532215
+Vehicle 0.959310352802
+Vehicle registration plate 0.952685415745
+Automotive tire 0.921403288841
+Hood 0.898572087288
+Automotive lighting 0.89314109087
+Automotive carrying rack 0.887733995914
+Tree 0.881412982941

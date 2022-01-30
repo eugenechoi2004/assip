@@ -1,0 +1,10 @@
+Car 0.936863005161
+Automotive lighting 0.929296910763
+Motor vehicle 0.928118884563
+Vehicle 0.92729061842
+Automotive tire 0.919778287411
+Hood 0.918273448944
+Automotive mirror 0.912632703781
+Automotive design 0.890392839909
+Windscreen wiper 0.880520284176
+Tree 0.86960452795

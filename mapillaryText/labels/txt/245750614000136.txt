@@ -1,0 +1,10 @@
+Plant 0.965929329395
+Automotive tail & brake light 0.941774010658
+Flowerpot 0.935035049915
+Houseplant 0.916148066521
+Infrastructure 0.898215591908
+Road surface 0.895291745663
+Tree 0.8643258214
+Motor vehicle 0.854939699173
+Asphalt 0.854380190372
+Neighbourhood 0.836937963963

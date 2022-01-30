@@ -1,0 +1,2 @@
+Chicago North Shore and Milwaukee Railroad 0.572091639042
+bounds: (34,282),(96,282),(96,316),(34,316)

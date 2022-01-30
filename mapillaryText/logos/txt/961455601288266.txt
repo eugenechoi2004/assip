@@ -1,0 +1,2 @@
+SNS College of Technology 0.551748335361
+bounds: (815,16),(922,16),(922,58),(815,58)

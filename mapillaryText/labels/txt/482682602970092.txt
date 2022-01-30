@@ -1,0 +1,10 @@
+Car 0.976335644722
+Wheel 0.959116578102
+Sky 0.939428925514
+Vehicle 0.936398506165
+Automotive lighting 0.929107189178
+Window 0.925223529339
+Motor vehicle 0.923004150391
+Automotive design 0.90056681633
+Road surface 0.892077803612
+Vehicle registration plate 0.891925930977

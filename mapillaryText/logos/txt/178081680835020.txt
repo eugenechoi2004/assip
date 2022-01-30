@@ -1,0 +1,2 @@
+Central Calcutta Polytechnic 0.553628563881
+bounds: (246,174),(320,174),(320,245),(246,245)

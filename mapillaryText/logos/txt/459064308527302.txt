@@ -1,0 +1,2 @@
+Franklin Templeton Investments 0.557077527046
+bounds: (622,250),(674,250),(674,307),(622,307)

@@ -1,0 +1,10 @@
+Automotive lighting 0.917459249496
+Motor vehicle 0.907298386097
+Automotive exterior 0.854034245014
+Mode of transport 0.851360440254
+Automotive design 0.837586164474
+Tree 0.812821447849
+Fun 0.811027288437
+Vehicle door 0.799156188965
+Leisure 0.773160219193
+Asphalt 0.770409345627

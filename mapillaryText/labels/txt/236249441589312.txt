@@ -1,0 +1,10 @@
+Sky 0.948900997639
+Road surface 0.88721203804
+Automotive lighting 0.884165525436
+Asphalt 0.878605544567
+Shade 0.825356543064
+Atmospheric phenomenon 0.82530516386
+Road 0.792644679546
+Grass 0.785767674446
+Tints and shades 0.773922204971
+Natural landscape 0.767476558685

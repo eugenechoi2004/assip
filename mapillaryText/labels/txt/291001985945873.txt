@@ -1,0 +1,10 @@
+Automotive tail & brake light 0.958608269691
+Car 0.953644216061
+Vehicle 0.946381628513
+Photograph 0.941456615925
+Automotive lighting 0.930214285851
+Light 0.91231161356
+Motor vehicle 0.902680516243
+Infrastructure 0.89525860548
+Vehicle registration plate 0.878465890884
+Lighting 0.870881080627

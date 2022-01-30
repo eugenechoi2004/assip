@@ -1,0 +1,10 @@
+Automotive tire 0.901092946529
+Automotive lighting 0.894924342632
+Vehicle 0.882721185684
+Tree 0.875841617584
+Motor vehicle 0.869787156582
+Automotive mirror 0.860164344311
+Motorcycle helmet 0.850640237331
+Helmet 0.84182369709
+Baseball cap 0.836955487728
+Plant 0.822917997837

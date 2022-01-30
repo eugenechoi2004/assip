@@ -1,0 +1,10 @@
+Vehicle 0.936454474926
+Automotive lighting 0.91939252615
+Motor vehicle 0.915149986744
+Car 0.90988612175
+Automotive mirror 0.901769042015
+Automotive tire 0.89225590229
+Tire 0.890355110168
+Automotive design 0.885741949081
+Windscreen wiper 0.869815468788
+Window 0.862614393234

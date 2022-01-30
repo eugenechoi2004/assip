@@ -1,0 +1,10 @@
+Automotive lighting 0.923296868801
+Vehicle 0.902010858059
+Mode of transport 0.8481118083
+Car 0.818832874298
+Automotive design 0.815877377987
+Tints and shades 0.770672917366
+Flooring 0.768641471863
+Motor vehicle 0.753745019436
+Automotive exterior 0.7397544384
+City 0.736552715302

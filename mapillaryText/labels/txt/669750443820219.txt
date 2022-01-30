@@ -1,0 +1,10 @@
+Car 0.963290154934
+Vehicle 0.947865128517
+Building 0.929659605026
+Motor vehicle 0.890612185001
+Asphalt 0.881291270256
+Automotive lighting 0.87872004509
+Road surface 0.878626048565
+Vehicle registration plate 0.87555450201
+Sky 0.869309067726
+Automotive mirror 0.866046726704

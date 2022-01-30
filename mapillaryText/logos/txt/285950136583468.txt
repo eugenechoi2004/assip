@@ -1,0 +1,2 @@
+Friends School of Baltimore 0.69434261322
+bounds: (474,249),(574,249),(574,355),(474,355)

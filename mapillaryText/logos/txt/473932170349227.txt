@@ -1,0 +1,2 @@
+Jupiter Entertainment 0.580277204514
+bounds: (8,0),(218,0),(218,39),(8,39)

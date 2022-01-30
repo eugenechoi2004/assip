@@ -1,0 +1,2 @@
+Karnataka Milk Federation 0.687331855297
+bounds: (76,105),(161,105),(161,162),(76,162)

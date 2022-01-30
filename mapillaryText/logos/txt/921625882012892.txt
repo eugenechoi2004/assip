@@ -1,0 +1,2 @@
+Himachal Pradesh State Electricity Board 0.574247717857
+bounds: (926,320),(999,320),(999,370),(926,370)

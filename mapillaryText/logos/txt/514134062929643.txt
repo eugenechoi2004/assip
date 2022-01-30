@@ -1,0 +1,4 @@
+Ralph Lauren Corporation 0.848613083363
+bounds: (5,48),(67,48),(67,115),(5,115)
+Central Calcutta Polytechnic 0.561993479729
+bounds: (433,178),(489,178),(489,274),(433,274)

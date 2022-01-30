@@ -1,0 +1,2 @@
+Communist Party of Canada 0.593573093414
+bounds: (33,57),(111,57),(111,187),(33,187)

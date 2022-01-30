@@ -1,0 +1,10 @@
+Automotive lighting 0.873359560966
+Mode of transport 0.840147078037
+Flash photography 0.793111920357
+Tints and shades 0.77393257618
+Public transport 0.734447658062
+Darkness 0.718702316284
+Glass 0.687018156052
+Human leg 0.656259000301
+Monochrome 0.655212104321
+Vehicle door 0.652947843075

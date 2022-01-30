@@ -1,0 +1,10 @@
+Car 0.961205244064
+Automotive tail & brake light 0.955116808414
+Vehicle 0.951533734798
+Vehicle registration plate 0.949294030666
+Automotive side-view mirror 0.94822371006
+Sky 0.941195726395
+Cloud 0.923862159252
+Automotive lighting 0.901636898518
+Infrastructure 0.887288033962
+Automotive mirror 0.855468928814

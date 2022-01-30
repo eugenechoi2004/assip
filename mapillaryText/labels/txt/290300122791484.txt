@@ -1,0 +1,10 @@
+Car 0.962592065334
+Automotive side-view mirror 0.955694556236
+Vehicle 0.945904552937
+Vehicle registration plate 0.930553913116
+Motor vehicle 0.927944362164
+Automotive lighting 0.926989972591
+Window 0.922978818417
+Automotive mirror 0.91227799654
+Tree 0.891710221767
+Windscreen wiper 0.867358446121

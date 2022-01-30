@@ -1,0 +1,10 @@
+Motor vehicle 0.909984767437
+Green 0.90967297554
+Automotive design 0.869305193424
+Mode of transport 0.843051016331
+Vehicle door 0.834843993187
+Font 0.822011172771
+Automotive exterior 0.820922613144
+Art 0.788834452629
+Tints and shades 0.77198779583
+Rolling stock 0.762716174126

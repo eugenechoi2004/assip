@@ -1,0 +1,2 @@
+Metropolitan Transportation Authority 0.62542617321
+bounds: (68,62),(128,62),(128,149),(68,149)

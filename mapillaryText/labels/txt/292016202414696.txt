@@ -1,0 +1,10 @@
+Wheel 0.968554317951
+Tire 0.966772675514
+Vehicle 0.904088616371
+Infrastructure 0.899958133698
+Automotive tire 0.872844338417
+Mode of transport 0.84624260664
+Automotive lighting 0.815910816193
+Neighbourhood 0.810690522194
+Public space 0.808113276958
+Travel 0.795831501484

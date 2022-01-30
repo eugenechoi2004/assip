@@ -1,0 +1,4 @@
+American College of Emergency Physicians 0.624073624611
+bounds: (220,23),(412,23),(412,150),(220,150)
+Barfoot & Thompson 0.554104208946
+bounds: (282,42),(386,42),(386,101),(282,101)

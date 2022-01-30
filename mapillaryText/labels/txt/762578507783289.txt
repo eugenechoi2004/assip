@@ -1,0 +1,10 @@
+Automotive parking light 0.978410840034
+Car 0.932439982891
+Automotive tire 0.916273534298
+Vehicle 0.914964020252
+Automotive lighting 0.914859712124
+Road surface 0.879551172256
+Asphalt 0.872924029827
+Motor vehicle 0.860737860203
+Fender 0.799757480621
+Thoroughfare 0.797737419605

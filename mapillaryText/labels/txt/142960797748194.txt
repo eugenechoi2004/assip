@@ -1,0 +1,10 @@
+Hood 0.917591452599
+Automotive lighting 0.915889501572
+Motor vehicle 0.905812621117
+Automotive mirror 0.901012599468
+Fixture 0.861563563347
+Rear-view mirror 0.842132806778
+Automotive exterior 0.838661789894
+Windscreen wiper 0.838643550873
+Vehicle 0.828300535679
+Vehicle door 0.817429482937

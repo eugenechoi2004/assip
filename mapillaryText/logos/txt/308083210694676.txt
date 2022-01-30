@@ -1,0 +1,2 @@
+Royal Newfoundland Constabulary 0.550543308258
+bounds: (330,255),(392,255),(392,321),(330,321)

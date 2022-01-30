@@ -1,0 +1,10 @@
+Bicycle 0.982601940632
+Wheel 0.97613120079
+Tire 0.968115031719
+Plant 0.966755568981
+Bicycles--Equipment and supplies 0.943793475628
+Bicycle frame 0.932034671307
+Bicycle handlebar 0.929825782776
+Bicycle tire 0.928981363773
+Bicycle wheel 0.923578262329
+Bicycle wheel rim 0.896184563637

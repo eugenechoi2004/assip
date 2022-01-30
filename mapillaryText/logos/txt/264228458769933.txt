@@ -1,0 +1,2 @@
+Hilliard Bradley High School 0.577154040337
+bounds: (253,298),(314,298),(314,327),(253,327)

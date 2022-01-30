@@ -1,0 +1,6 @@
+Lyndon B. Johnson State Park and Historic Site- Texas Parks and Wildlife Department 0.763333857059
+bounds: (398,360),(451,360),(451,442),(398,442)
+Yellow Tail 0.667799651623
+bounds: (383,141),(441,141),(441,219),(383,219)
+Maejo University 0.611971795559
+bounds: (243,353),(566,353),(566,465),(243,465)

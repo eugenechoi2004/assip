@@ -1,0 +1,10 @@
+Car 0.96378070116
+Vehicle 0.953390240669
+Photograph 0.941686987877
+Building 0.931154191494
+Motor vehicle 0.914911091328
+Window 0.912140309811
+Infrastructure 0.894263029099
+Automotive design 0.887570381165
+Mode of transport 0.852328836918
+Automotive exterior 0.847246527672

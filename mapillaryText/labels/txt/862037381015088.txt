@@ -1,0 +1,10 @@
+Tire 0.960243046284
+Wheel 0.957130491734
+Plant 0.935438752174
+Bicycles--Equipment and supplies 0.930156469345
+Vehicle 0.915338158607
+Helmet 0.908226370811
+Automotive tire 0.905586481094
+Tree 0.88197094202
+Motorcycle helmet 0.87356364727
+Automotive lighting 0.873172879219

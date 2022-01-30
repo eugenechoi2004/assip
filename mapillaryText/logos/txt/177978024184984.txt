@@ -1,0 +1,2 @@
+Newton North High School 0.738813459873
+bounds: (0,53),(79,53),(79,347),(0,347)

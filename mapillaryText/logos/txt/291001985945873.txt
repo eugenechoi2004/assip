@@ -1,0 +1,2 @@
+Nepal Samajbadi Party (Lohiyabadi) 0.591016769409
+bounds: (406,706),(459,706),(459,747),(406,747)

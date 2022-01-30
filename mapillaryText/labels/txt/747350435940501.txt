@@ -1,0 +1,10 @@
+Car 0.963432490826
+Outerwear 0.953632295132
+Vehicle 0.94397944212
+Motor vehicle 0.923199474812
+Automotive lighting 0.899457097054
+Automotive design 0.867023229599
+Mode of transport 0.866097927094
+Public space 0.809052288532
+Automotive exterior 0.80638808012
+Hat 0.79990041256

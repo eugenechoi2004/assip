@@ -1,0 +1,10 @@
+Vehicle 0.938697874546
+Building 0.933811664581
+Motor vehicle 0.921362876892
+Automotive lighting 0.904316484928
+Automotive tire 0.902807056904
+Infrastructure 0.902061283588
+Mode of transport 0.857964754105
+Automotive design 0.846664488316
+Travel 0.824638485909
+Sky 0.820401191711

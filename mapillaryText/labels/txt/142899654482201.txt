@@ -1,0 +1,10 @@
+Automotive lighting 0.907084345818
+Asphalt 0.828913509846
+Automotive mirror 0.788157999516
+Road surface 0.776828765869
+Tints and shades 0.773275315762
+Automotive exterior 0.758184790611
+Road 0.748442709446
+City 0.725874483585
+Windshield 0.710556566715
+Headlamp 0.708389163017

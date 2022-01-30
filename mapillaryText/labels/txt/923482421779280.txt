@@ -1,0 +1,10 @@
+Automotive lighting 0.914829552174
+Tire 0.886401116848
+Vehicle 0.882415950298
+Automotive tire 0.87641787529
+Asphalt 0.811499118805
+Tints and shades 0.77357929945
+Automotive exterior 0.75253534317
+Road surface 0.744800806046
+Motorcycle 0.726339101791
+Darkness 0.717739880085

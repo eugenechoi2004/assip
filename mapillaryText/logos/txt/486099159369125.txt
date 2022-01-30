@@ -1,0 +1,2 @@
+Applied Science University 0.697292506695
+bounds: (40,115),(93,115),(93,169),(40,169)

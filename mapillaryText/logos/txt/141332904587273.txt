@@ -1,0 +1,2 @@
+Maldives Monetary Authority 0.574706792831
+bounds: (182,292),(246,292),(246,340),(182,340)

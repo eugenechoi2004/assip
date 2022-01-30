@@ -1,0 +1,2 @@
+Anglo Singapore International School 0.57826679945
+bounds: (123,415),(300,415),(300,544),(123,544)

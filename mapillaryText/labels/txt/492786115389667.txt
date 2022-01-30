@@ -1,0 +1,10 @@
+Tire 0.964237272739
+Car 0.950333356857
+Sky 0.942267715931
+Vehicle 0.932395994663
+Motor vehicle 0.927393376827
+Automotive tire 0.922030568123
+Automotive carrying rack 0.903854846954
+Automotive tail & brake light 0.891153097153
+Automotive design 0.884719312191
+Asphalt 0.86464291811

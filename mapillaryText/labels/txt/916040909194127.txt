@@ -1,0 +1,10 @@
+Bus 0.974901258945
+Vehicle 0.923940479755
+Window 0.919517219067
+Motor vehicle 0.908152401447
+Double-decker bus 0.902674973011
+Automotive lighting 0.888017058372
+Automotive mirror 0.885226666927
+Tour bus service 0.880933403969
+Building 0.877319514751
+Asphalt 0.860734820366

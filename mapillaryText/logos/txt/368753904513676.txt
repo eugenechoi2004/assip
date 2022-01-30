@@ -1,0 +1,2 @@
+Compañia de Minas Buenaventura 0.569195151329
+bounds: (893,462),(1010,462),(1010,513),(893,513)

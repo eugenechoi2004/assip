@@ -1,0 +1,10 @@
+Cloud 0.970881640911
+Car 0.969372570515
+Sky 0.968380510807
+Vehicle 0.942263543606
+Automotive side-view mirror 0.937279164791
+Automotive lighting 0.899288356304
+Motor vehicle 0.883957803249
+Automotive mirror 0.86359590292
+Vehicle registration plate 0.862237095833
+Asphalt 0.832763135433

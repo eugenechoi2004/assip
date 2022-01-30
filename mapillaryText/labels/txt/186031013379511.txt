@@ -1,0 +1,10 @@
+Motor vehicle 0.945560932159
+Vehicle 0.932325661182
+Road surface 0.904455125332
+Tree 0.892455518246
+Infrastructure 0.886861145496
+Automotive tail & brake light 0.886356949806
+Asphalt 0.883194684982
+Mode of transport 0.87005418539
+Tire 0.863072454929
+Yellow 0.861694097519

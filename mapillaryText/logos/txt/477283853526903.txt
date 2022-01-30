@@ -1,0 +1,2 @@
+Baltimore Symphony Orchestra 0.583457112312
+bounds: (474,259),(566,259),(566,322),(474,322)

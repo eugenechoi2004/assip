@@ -1,0 +1,2 @@
+State Street Global Advisors 0.593103349209
+bounds: (883,390),(1021,390),(1021,431),(883,431)

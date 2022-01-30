@@ -1,0 +1,2 @@
+Guru Gobind Singh Indraprastha University 0.551647126675
+bounds: (939,446),(1003,446),(1003,515),(939,515)

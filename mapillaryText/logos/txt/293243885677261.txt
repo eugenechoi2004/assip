@@ -1,0 +1,2 @@
+Bill & Melinda Gates Foundation 0.553381800652
+bounds: (37,330),(139,330),(139,404),(37,404)

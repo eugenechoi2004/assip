@@ -1,0 +1,2 @@
+International Watch Company 0.557078838348
+bounds: (705,237),(779,237),(779,281),(705,281)

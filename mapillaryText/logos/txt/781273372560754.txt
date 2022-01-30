@@ -1,0 +1,2 @@
+Mahindra & Mahindra Financial Services Limited 0.619186937809
+bounds: (412,483),(607,483),(607,528),(412,528)

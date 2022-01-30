@@ -1,0 +1,2 @@
+National Mineral Development Corporation 0.551167190075
+bounds: (152,225),(243,225),(243,292),(152,292)

@@ -1,0 +1,2 @@
+Clermont Transportation Connection 0.557343363762
+bounds: (502,1),(610,1),(610,128),(502,128)

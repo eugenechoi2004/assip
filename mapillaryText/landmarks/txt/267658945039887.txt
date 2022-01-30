@@ -1,0 +1,6 @@
+Government Aquarium
+Latitude 12.9765148 Longitude 77.5985397 0.434989959002
+Visvesvaraya Industrial & Technological Museum
+Latitude 12.9752264 Longitude 77.5963449 0.356380611658
+Cubbon Park
+Latitude 12.9763472 Longitude 77.5929284 0.333700954914

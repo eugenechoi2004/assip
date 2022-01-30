@@ -1,0 +1,2 @@
+Jodhpur National University 0.610273420811
+bounds: (261,289),(316,289),(316,338),(261,338)

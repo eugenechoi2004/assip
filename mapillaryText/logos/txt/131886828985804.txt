@@ -1,0 +1,4 @@
+Karnataka State Road Transport Corporation 0.770602107048
+bounds: (319,221),(393,221),(393,295),(319,295)
+Bath & Body Works 0.565615773201
+bounds: (424,196),(723,196),(723,250),(424,250)

@@ -1,0 +1,2 @@
+Jumeira Baccalaureate School 0.550127565861
+bounds: (702,253),(984,253),(984,299),(702,299)

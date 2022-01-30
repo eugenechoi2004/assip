@@ -1,0 +1,2 @@
+Jacob Leinenkugel Brewing Company 0.631100952625
+bounds: (81,187),(185,187),(185,225),(81,225)

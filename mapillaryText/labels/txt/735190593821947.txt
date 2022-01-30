@@ -1,0 +1,10 @@
+Vehicle 0.932992458344
+Motor vehicle 0.925566375256
+Automotive lighting 0.924553692341
+Automotive tire 0.916870713234
+Plant 0.908820033073
+Automotive mirror 0.905417382717
+Car 0.896062970161
+Automotive design 0.893010616302
+Tree 0.890529572964
+Motorcycle helmet 0.881888270378

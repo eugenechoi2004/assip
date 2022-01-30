@@ -1,0 +1,2 @@
+Rajamangala University of Technology Srivijaya 0.578279495239
+bounds: (10,106),(99,106),(99,237),(10,237)

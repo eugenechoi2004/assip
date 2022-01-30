@@ -1,0 +1,10 @@
+Land vehicle 0.964179635048
+Car 0.961438596249
+Vehicle 0.934153914452
+Automotive lighting 0.924338638783
+Motor vehicle 0.916863977909
+Hood 0.910450041294
+Vehicle registration plate 0.896155118942
+Automotive design 0.892142415047
+Automotive mirror 0.875324130058
+Asphalt 0.865762293339

@@ -1,0 +1,2 @@
+American Society for Quality 0.557254374027
+bounds: (231,214),(291,214),(291,287),(231,287)

@@ -1,0 +1,10 @@
+Automotive lighting 0.915508031845
+Motor vehicle 0.878290116787
+Automotive exterior 0.816304266453
+Tints and shades 0.768364369869
+Asphalt 0.750200867653
+Road 0.72139030695
+Headlamp 0.720522284508
+Tree 0.717261910439
+Road surface 0.715708315372
+Auto part 0.707282245159

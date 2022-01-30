@@ -1,0 +1,10 @@
+Car 0.964456319809
+Vehicle registration plate 0.96331936121
+Vehicle 0.938249588013
+Motor vehicle 0.930704236031
+Automotive lighting 0.928632199764
+Sky 0.925044178963
+Automotive tail & brake light 0.902067422867
+Automotive mirror 0.892342567444
+Automotive design 0.888583958149
+Tree 0.884435474873

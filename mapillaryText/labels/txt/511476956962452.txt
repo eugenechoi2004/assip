@@ -1,0 +1,10 @@
+Land vehicle 0.960375785828
+Photograph 0.941680848598
+White 0.921859741211
+Vehicle 0.919584155083
+Light 0.911556839943
+Motor vehicle 0.896400213242
+Blue 0.892010033131
+Automotive lighting 0.877108633518
+Automotive tire 0.868138790131
+Vehicle registration plate 0.839915037155

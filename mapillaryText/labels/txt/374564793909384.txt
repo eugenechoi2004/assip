@@ -1,0 +1,10 @@
+Motor vehicle 0.922937691212
+Automotive side-view mirror 0.921454787254
+Automotive lighting 0.920870900154
+Automotive mirror 0.911740243435
+Automotive design 0.88136357069
+Vehicle 0.86656242609
+Rear-view mirror 0.860254108906
+Automotive exterior 0.831761002541
+Car 0.776231646538
+Tints and shades 0.768427252769

@@ -1,0 +1,10 @@
+Building 0.890197575092
+Tree 0.878578305244
+Wood 0.847536087036
+Land lot 0.844508171082
+Residential area 0.787719190121
+Tints and shades 0.769866883755
+Geological phenomenon 0.767433583736
+Composite material 0.766892194748
+Window 0.755641639233
+Road surface 0.752729356289

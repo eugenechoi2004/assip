@@ -1,0 +1,2 @@
+Scheller College of Business 0.552690267563
+bounds: (932,194),(1022,194),(1022,296),(932,296)

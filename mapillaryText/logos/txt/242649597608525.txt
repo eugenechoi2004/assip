@@ -1,0 +1,4 @@
+Progressive Building Society 0.629963338375
+bounds: (607,110),(705,110),(705,191),(607,191)
+Costume National 0.614981770515
+bounds: (376,62),(457,62),(457,105),(376,105)

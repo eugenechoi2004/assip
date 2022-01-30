@@ -1,0 +1,10 @@
+Daytime 0.944730520248
+Infrastructure 0.894041597843
+Automotive lighting 0.885620176792
+Mode of transport 0.853959262371
+Neighbourhood 0.829588830471
+Automotive tire 0.824653148651
+Fender 0.80739235878
+Shipping box 0.788746893406
+Motor vehicle 0.786778092384
+Road 0.784531712532

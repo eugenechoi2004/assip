@@ -1,0 +1,10 @@
+Automotive lighting 0.919667005539
+Sky 0.897586226463
+Road surface 0.897072374821
+Asphalt 0.88565325737
+Natural landscape 0.880358457565
+Mode of transport 0.85550057888
+Sunlight 0.849573194981
+Thoroughfare 0.835583746433
+Atmospheric phenomenon 0.826426208019
+Woody plant 0.801427185535

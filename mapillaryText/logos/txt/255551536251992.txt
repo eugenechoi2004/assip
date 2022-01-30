@@ -1,0 +1,2 @@
+Florida State University 0.569869697094
+bounds: (0,39),(164,39),(164,191),(0,191)

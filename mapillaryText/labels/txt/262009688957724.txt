@@ -1,0 +1,10 @@
+Wheel 0.964889585972
+Tire 0.954241931438
+Bicycles--Equipment and supplies 0.940058887005
+Plant 0.934830665588
+Vehicle 0.931260883808
+Sky 0.927765011787
+Vehicle registration plate 0.907457053661
+Automotive lighting 0.904410004616
+Tree 0.898824572563
+Motor vehicle 0.893228054047

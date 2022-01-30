@@ -1,0 +1,10 @@
+Automotive lighting 0.923871040344
+Automotive mirror 0.898562431335
+Vehicle 0.87609577179
+Automotive design 0.868363380432
+Motor vehicle 0.846381187439
+Automotive exterior 0.831553280354
+Building 0.78483569622
+Parking 0.77786886692
+Auto part 0.767429709435
+Rear-view mirror 0.760551214218

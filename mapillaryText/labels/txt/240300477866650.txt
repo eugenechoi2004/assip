@@ -1,0 +1,10 @@
+Vehicle 0.936429440975
+Motor vehicle 0.931547045708
+Automotive design 0.904697239399
+Automotive lighting 0.881598651409
+Automotive tire 0.861676871777
+Automotive exterior 0.837502419949
+Tree 0.825844287872
+Fender 0.809111773968
+Tire 0.80200111866
+Recreation 0.761940181255

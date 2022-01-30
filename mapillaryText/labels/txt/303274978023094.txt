@@ -1,0 +1,10 @@
+Car 0.973804175854
+Land vehicle 0.963647544384
+Wheel 0.963642895222
+Vehicle registration plate 0.951337873936
+Tire 0.949724137783
+Vehicle 0.948460221291
+Automotive lighting 0.903334140778
+Motor vehicle 0.902166724205
+Tree 0.893326342106
+Mercedes-benz c-class 0.851698219776

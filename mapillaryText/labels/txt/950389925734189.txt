@@ -1,0 +1,10 @@
+Car 0.939891755581
+Vehicle 0.93653935194
+Building 0.925204873085
+Automotive lighting 0.922523677349
+Automotive design 0.883880138397
+Mode of transport 0.847450196743
+Asphalt 0.833603978157
+Motor vehicle 0.831041097641
+Automotive exterior 0.806437432766
+City 0.787581801414

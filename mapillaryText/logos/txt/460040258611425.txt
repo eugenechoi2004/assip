@@ -1,0 +1,2 @@
+Academia Militar das Agulhas Negras 0.59712600708
+bounds: (335,51),(422,51),(422,148),(335,148)

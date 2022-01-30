@@ -1,0 +1,2 @@
+Dadabhoy Institute of Higher Education 0.558609068394
+bounds: (892,214),(980,214),(980,345),(892,345)

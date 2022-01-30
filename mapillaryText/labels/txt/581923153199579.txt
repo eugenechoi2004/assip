@@ -1,0 +1,10 @@
+Car 0.959726929665
+Vehicle 0.947663247585
+Tire 0.94584852457
+Vehicle registration plate 0.933625221252
+Plant 0.930141568184
+Automotive lighting 0.929250955582
+Wheel 0.922346532345
+Ford crown victoria police interceptor 0.917219221592
+Motor vehicle 0.912159621716
+Window 0.903784394264

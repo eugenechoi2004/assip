@@ -1,0 +1,10 @@
+Land vehicle 0.96162545681
+Tire 0.95746576786
+Wheel 0.955546975136
+Building 0.947506666183
+Vehicle 0.93437230587
+Motor vehicle 0.930410563946
+Automotive lighting 0.920657098293
+Automotive tire 0.917134642601
+Infrastructure 0.888553142548
+Road surface 0.881807208061

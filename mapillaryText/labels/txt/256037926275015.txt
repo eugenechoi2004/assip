@@ -1,0 +1,10 @@
+Building 0.912422299385
+Road surface 0.901678264141
+Infrastructure 0.890065670013
+Asphalt 0.88670706749
+Motor vehicle 0.879255831242
+Automotive lighting 0.871111273766
+Tree 0.864679157734
+Thoroughfare 0.863194346428
+Vehicle 0.854065477848
+Mode of transport 0.847966074944

@@ -1,0 +1,2 @@
+American Cleaning Institute 0.575222849846
+bounds: (869,224),(953,224),(953,298),(869,298)

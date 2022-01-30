@@ -1,0 +1,5 @@
+ooking:wane.seabirdtourists.co
+SEABIRD
+ 0.0 bounds: (800,253),(931,253),(931,304),(800,304)
+ooking:wane.seabirdtourists.co 0.0 bounds: (815,273),(916,253),(918,262),(817,282)
+SEABIRD 0.0 bounds: (800,282),(926,260),(930,282),(804,304)

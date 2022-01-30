@@ -1,0 +1,10 @@
+Car 0.966960370541
+Sky 0.954294145107
+Vehicle 0.948606669903
+Building 0.931762039661
+Motor vehicle 0.902579188347
+Automotive lighting 0.892657995224
+Infrastructure 0.892594993114
+Vehicle registration plate 0.879814088345
+Mode of transport 0.854091286659
+Asphalt 0.838480055332

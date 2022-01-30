@@ -1,0 +1,4 @@
+Chai Point 0.776390850544
+bounds: (41,228),(136,228),(136,267),(41,267)
+Our Lady of Mount Carmel Secondary School 0.712945461273
+bounds: (73,171),(131,171),(131,232),(73,232)

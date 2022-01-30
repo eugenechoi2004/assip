@@ -1,0 +1,22 @@
+RICE MEMORIAL
+Bat
+PATHI
+MAND
+SAHEXPRESS
+Rroe
+HE OMPETELOGSTIG SQUTONS
+DistribitionRedefined
+Bata
+ 0.0 bounds: (-1,173),(744,173),(744,457),(-1,457)
+RICE 0.0 bounds: (4,173),(44,182),(40,202),(0,194)
+MEMORIAL 0.0 bounds: (52,186),(145,206),(142,221),(49,201)
+Bat 0.0 bounds: (558,281),(620,303),(610,332),(548,310)
+PATHI 0.0 bounds: (719,293),(744,293),(744,300),(719,300)
+MAND 0.0 bounds: (51,277),(86,275),(86,283),(51,285)
+SAHEXPRESS 0.0 bounds: (182,326),(326,334),(323,383),(179,375)
+Rroe 0.0 bounds: (36,342),(70,343),(70,352),(36,351)
+HE 0.0 bounds: (175,390),(190,390),(190,400),(175,400)
+OMPETELOGSTIG 0.0 bounds: (195,388),(274,390),(274,403),(195,401)
+SQUTONS 0.0 bounds: (279,390),(321,391),(321,404),(279,403)
+DistribitionRedefined 0.0 bounds: (154,430),(321,429),(321,456),(154,457)
+Bata 0.0 bounds: (521,234),(521,185),(537,185),(537,234)

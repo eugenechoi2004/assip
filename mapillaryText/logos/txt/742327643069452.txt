@@ -1,0 +1,2 @@
+Prince Mohammad bin Fahd University 0.693079829216
+bounds: (924,107),(991,107),(991,167),(924,167)

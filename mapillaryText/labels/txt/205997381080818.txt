@@ -1,0 +1,10 @@
+Window 0.925234675407
+Motor vehicle 0.923011541367
+Tree 0.879845142365
+Vehicle 0.87879294157
+Orange 0.866218686104
+Automotive exterior 0.84663683176
+Vehicle door 0.830567657948
+Automotive lighting 0.799352288246
+Automotive design 0.794565737247
+Tints and shades 0.773338258266

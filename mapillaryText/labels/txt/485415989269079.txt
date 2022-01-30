@@ -1,0 +1,10 @@
+Tire 0.980238258839
+Wheel 0.978574991226
+Land vehicle 0.977153778076
+Bicycle 0.975558578968
+Car 0.959371089935
+Vehicle 0.959349691868
+Vehicle registration plate 0.941568017006
+Bicycles--Equipment and supplies 0.923287689686
+White 0.92186576128
+Bicycle wheel 0.916137933731

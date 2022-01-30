@@ -1,0 +1,2 @@
+Real Canadian Superstore 0.580728888512
+bounds: (225,0),(334,0),(334,67),(225,67)

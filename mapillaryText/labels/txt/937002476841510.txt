@@ -1,0 +1,10 @@
+Tire 0.958325207233
+Daytime 0.94422262907
+Wheel 0.939540863037
+Motor vehicle 0.929115593433
+Automotive tire 0.902829766273
+Automotive lighting 0.858413398266
+Mode of transport 0.848973155022
+Asphalt 0.817618906498
+Road surface 0.813287854195
+Neighbourhood 0.812524557114

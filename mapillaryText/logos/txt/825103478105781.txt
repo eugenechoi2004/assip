@@ -1,0 +1,2 @@
+Ar-Raniry State Islamic University 0.560307621956
+bounds: (31,355),(175,355),(175,396),(31,396)

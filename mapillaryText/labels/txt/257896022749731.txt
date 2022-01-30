@@ -1,0 +1,10 @@
+Wheel 0.983671784401
+Tire 0.982622027397
+Land vehicle 0.977311611176
+Bus 0.972598314285
+Car 0.97078281641
+Vehicle 0.963199853897
+Bicycle 0.953233242035
+Vehicle registration plate 0.947023928165
+Motor vehicle 0.924574553967
+Bicycles--Equipment and supplies 0.916359722614

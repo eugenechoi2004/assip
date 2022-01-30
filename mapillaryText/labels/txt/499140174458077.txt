@@ -1,0 +1,10 @@
+Wheel 0.975805163383
+Tire 0.974726974964
+Car 0.96839761734
+Vehicle registration plate 0.960772335529
+Vehicle 0.950811028481
+Motor vehicle 0.919658303261
+Yellow 0.860379517078
+Asphalt 0.853518366814
+Light commercial vehicle 0.846856892109
+Mode of transport 0.845910072327

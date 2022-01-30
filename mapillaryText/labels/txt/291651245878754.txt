@@ -1,0 +1,10 @@
+Tire 0.975248634815
+Sky 0.970302820206
+Wheel 0.964192986488
+Land vehicle 0.95859760046
+Vehicle 0.953234195709
+Vehicle registration plate 0.944358706474
+Motor vehicle 0.930644929409
+Automotive tire 0.902690172195
+Asphalt 0.864025235176
+Automotive exterior 0.860003829002

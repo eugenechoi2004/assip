@@ -1,0 +1,10 @@
+Atmosphere 0.948180794716
+Automotive lighting 0.916869580746
+Hood 0.91590487957
+Sky 0.883017361164
+Mode of transport 0.848123550415
+Road surface 0.845749676228
+Automotive mirror 0.845119655132
+Sunlight 0.843132078648
+Asphalt 0.833893418312
+Atmospheric phenomenon 0.82924669981

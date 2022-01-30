@@ -1,0 +1,10 @@
+Automotive mirror 0.852042555809
+Automotive tire 0.829615652561
+Vehicle door 0.828572928905
+Automotive exterior 0.827875912189
+Automotive design 0.827100992203
+Motor vehicle 0.824965238571
+Personal luxury car 0.793845236301
+Bumper 0.788946330547
+Tints and shades 0.771772623062
+Windscreen wiper 0.751868844032

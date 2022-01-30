@@ -1,0 +1,2 @@
+Vardhaman Mahaveer Open University 0.78097820282
+bounds: (592,407),(646,407),(646,461),(592,461)

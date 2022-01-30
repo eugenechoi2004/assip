@@ -1,0 +1,10 @@
+Tire 0.982122540474
+Wheel 0.981466770172
+Car 0.978935599327
+Vehicle 0.967234909534
+Land vehicle 0.963651955128
+Motor vehicle 0.936432182789
+Vehicle registration plate 0.917978942394
+Automotive carrying rack 0.912115752697
+Automotive tire 0.883694648743
+Automotive design 0.882887780666

@@ -1,0 +1,2 @@
+Currumbin Wildlife Sanctuary 0.608537495136
+bounds: (912,214),(1018,214),(1018,263),(912,263)

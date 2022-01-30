@@ -1,0 +1,10 @@
+Grille 0.945101201534
+Automotive lighting 0.922374010086
+Hood 0.918267190456
+Green 0.915626883507
+Automotive tire 0.905335307121
+Mesh 0.892209887505
+Automotive design 0.88448035717
+Bumper 0.883240938187
+Electronic instrument 0.87198472023
+Motor vehicle 0.855656921864

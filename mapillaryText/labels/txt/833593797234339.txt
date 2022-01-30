@@ -1,0 +1,10 @@
+Building 0.877496778965
+Automotive lighting 0.822719991207
+Tints and shades 0.773496329784
+Public transport 0.724315702915
+Automotive exterior 0.687633514404
+Event 0.667683541775
+Darkness 0.667056262493
+City 0.660398840904
+Glass 0.652946770191
+Rolling stock 0.644111812115

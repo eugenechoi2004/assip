@@ -1,0 +1,2 @@
+Priory Community School 0.639578223228
+bounds: (0,69),(79,69),(79,171),(0,171)

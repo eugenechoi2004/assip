@@ -1,0 +1,11 @@
+Nike
+Ni'esh
+STRUCTURE
+Joyalukkas
+Wokdhtooutfejder
+ 0.0 bounds: (10,50),(435,50),(435,309),(10,309)
+Nike 0.0 bounds: (297,50),(435,56),(433,104),(295,98)
+Ni'esh 0.0 bounds: (275,180),(355,179),(355,204),(275,205)
+STRUCTURE 0.0 bounds: (297,212),(348,212),(348,220),(297,220)
+Joyalukkas 0.0 bounds: (18,230),(161,261),(153,298),(10,267)
+Wokdhtooutfejder 0.0 bounds: (12,272),(153,297),(151,309),(10,285)

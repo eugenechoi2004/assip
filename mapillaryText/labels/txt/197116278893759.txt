@@ -1,0 +1,10 @@
+Car 0.980919122696
+Land vehicle 0.966483414173
+Vehicle 0.962133824825
+Building 0.952292621136
+Photograph 0.94185847044
+Vehicle registration plate 0.9338337183
+Infrastructure 0.898041248322
+Motor vehicle 0.874908983707
+Window 0.870811402798
+Automotive design 0.868336617947

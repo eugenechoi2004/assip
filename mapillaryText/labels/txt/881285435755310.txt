@@ -1,0 +1,10 @@
+Land vehicle 0.964809417725
+Vehicle 0.949485778809
+Wheel 0.941827654839
+Sky 0.920420229435
+Automotive tire 0.91914588213
+Automotive lighting 0.917586565018
+Automotive mirror 0.91229981184
+Motor vehicle 0.911279439926
+Tire 0.900169491768
+Automotive design 0.899964392185

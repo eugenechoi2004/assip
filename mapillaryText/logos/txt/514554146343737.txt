@@ -1,0 +1,2 @@
+Coleg Cymunedol Y Dderwen 0.58470261097
+bounds: (0,273),(121,273),(121,344),(0,344)

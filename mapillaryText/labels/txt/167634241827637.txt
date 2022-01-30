@@ -1,0 +1,10 @@
+Wheel 0.961158454418
+Hand 0.959295451641
+Tire 0.954792141914
+Arm 0.944056630135
+Bicycles--Equipment and supplies 0.943912804127
+Vehicle 0.940907716751
+Motor vehicle 0.930642664433
+Automotive lighting 0.928076267242
+Bicycle handlebar 0.927450358868
+Automotive tire 0.920067667961

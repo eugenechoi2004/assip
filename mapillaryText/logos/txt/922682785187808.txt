@@ -1,0 +1,2 @@
+Bojangles' Famous Chicken 'n Biscuits 0.642767906189
+bounds: (176,312),(298,312),(298,367),(176,367)

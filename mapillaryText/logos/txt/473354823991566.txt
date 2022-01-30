@@ -1,0 +1,2 @@
+Australian Institute of Company Directors 0.596293568611
+bounds: (25,354),(339,354),(339,404),(25,404)

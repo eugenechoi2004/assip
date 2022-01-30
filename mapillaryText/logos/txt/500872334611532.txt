@@ -1,0 +1,2 @@
+Darla Moore School of Business 0.55224364996
+bounds: (876,57),(1014,57),(1014,132),(876,132)

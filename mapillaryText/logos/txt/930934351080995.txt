@@ -1,0 +1,4 @@
+Turkish Aerospace Industries 0.602700650692
+bounds: (860,291),(1020,291),(1020,328),(860,328)
+School of Performing Arts Seoul 0.569635152817
+bounds: (895,254),(970,254),(970,291),(895,291)

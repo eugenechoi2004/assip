@@ -1,0 +1,10 @@
+Automotive side-view mirror 0.956874847412
+Vehicle 0.943404197693
+Wheel 0.942664384842
+Tire 0.940829277039
+Motor vehicle 0.935374736786
+Automotive lighting 0.925666987896
+Automotive tire 0.897216379642
+Asphalt 0.88501906395
+Car 0.884238600731
+Automotive design 0.87826693058

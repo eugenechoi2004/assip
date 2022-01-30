@@ -1,0 +1,2 @@
+University of Alabama at Birmingham 0.564428031445
+bounds: (750,221),(871,221),(871,392),(750,392)

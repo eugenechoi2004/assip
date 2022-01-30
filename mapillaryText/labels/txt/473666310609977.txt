@@ -1,0 +1,10 @@
+Car 0.974039375782
+Automotive tail & brake light 0.958357572556
+Vehicle 0.946942806244
+Tire 0.939269721508
+Automotive lighting 0.929055035114
+Automotive design 0.86585354805
+Tree 0.855495274067
+Asphalt 0.851816654205
+Motor vehicle 0.847643733025
+Automotive exterior 0.834028542042

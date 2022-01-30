@@ -1,0 +1,2 @@
+Schmidt Peterson Motorsports 0.689359307289
+bounds: (666,278),(739,278),(739,344),(666,344)

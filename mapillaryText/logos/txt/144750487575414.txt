@@ -1,0 +1,2 @@
+Uttar Pradesh Power Corporation Limited 0.647430181503
+bounds: (562,279),(710,279),(710,350),(562,350)

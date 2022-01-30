@@ -1,0 +1,2 @@
+Publishers Clearing House 0.658035635948
+bounds: (12,343),(86,343),(86,406),(12,406)

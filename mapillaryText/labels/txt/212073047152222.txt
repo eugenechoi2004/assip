@@ -1,0 +1,10 @@
+Sky 0.960761964321
+Cloud 0.927037894726
+Hood 0.910484731197
+Automotive lighting 0.901302814484
+Automotive mirror 0.897461533546
+Motor vehicle 0.892920136452
+Mode of transport 0.842937767506
+Automotive exterior 0.842422246933
+Atmospheric phenomenon 0.824994206429
+Rear-view mirror 0.810553371906

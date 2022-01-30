@@ -1,0 +1,10 @@
+Automotive parking light 0.975689530373
+Vehicle 0.929278731346
+Sky 0.921912133694
+Car 0.918566048145
+Automotive lighting 0.916728198528
+Motor vehicle 0.903973221779
+Hood 0.881390631199
+Automotive tire 0.861770510674
+Automotive exterior 0.842230677605
+Automotive carrying rack 0.837106227875

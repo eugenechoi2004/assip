@@ -1,0 +1,10 @@
+Sky 0.95916390419
+Plant 0.92580640316
+Hood 0.917431712151
+Automotive lighting 0.915419399738
+Vehicle 0.905983507633
+Automotive mirror 0.904107570648
+Car 0.898981571198
+Infrastructure 0.890787243843
+Vehicle registration plate 0.889185369015
+Motor vehicle 0.880815625191

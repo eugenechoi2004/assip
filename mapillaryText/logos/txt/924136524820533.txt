@@ -1,0 +1,2 @@
+Vignana Bharathi Institute of Technology 0.561088860035
+bounds: (214,345),(279,345),(279,378),(214,378)

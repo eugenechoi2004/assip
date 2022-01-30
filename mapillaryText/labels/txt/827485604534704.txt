@@ -1,0 +1,10 @@
+Vehicle 0.946780979633
+Motor vehicle 0.925436615944
+Car 0.917786002159
+Automotive lighting 0.892146587372
+Mode of transport 0.854438841343
+Automotive design 0.851498544216
+Tree 0.833558738232
+Automotive exterior 0.82959073782
+Travel 0.823141396046
+Vehicle door 0.778844714165

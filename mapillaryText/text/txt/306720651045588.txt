@@ -1,0 +1,6 @@
+Chandra lutomobile
+AUTOMOBILES
+ 0.0 bounds: (-1,304),(185,304),(185,350),(-1,350)
+Chandra 0.0 bounds: (127,326),(152,331),(150,343),(125,338)
+lutomobile 0.0 bounds: (155,331),(185,337),(183,350),(152,344)
+AUTOMOBILES 0.0 bounds: (4,304),(75,321),(71,339),(0,321)

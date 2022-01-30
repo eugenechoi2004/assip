@@ -1,0 +1,10 @@
+Sky 0.967792034149
+Cloud 0.9305139184
+Motor vehicle 0.894704163074
+Natural environment 0.891404032707
+Automotive lighting 0.886340141296
+Road surface 0.832607507706
+Asphalt 0.826570510864
+Tree 0.817926764488
+Automotive exterior 0.816025674343
+Windscreen wiper 0.76329690218

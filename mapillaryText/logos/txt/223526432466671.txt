@@ -1,0 +1,4 @@
+20th Century Fox 0.675275444984
+bounds: (720,1),(846,1),(846,99),(720,99)
+American Society for Microbiology 0.587090015411
+bounds: (731,96),(858,96),(858,134),(731,134)

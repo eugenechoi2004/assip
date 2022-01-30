@@ -1,0 +1,10 @@
+Tire 0.975410401821
+Wheel 0.970657348633
+Car 0.96459287405
+Vehicle 0.961490571499
+Motor vehicle 0.917994499207
+Vehicle registration plate 0.901464760303
+Infrastructure 0.900246679783
+Automotive design 0.890581667423
+Asphalt 0.868438243866
+Automotive lighting 0.859681010246

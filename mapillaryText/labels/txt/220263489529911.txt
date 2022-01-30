@@ -1,0 +1,10 @@
+Automotive lighting 0.901976466179
+Vehicle 0.87066590786
+Automotive mirror 0.868665575981
+Motor vehicle 0.846908092499
+Window 0.838742673397
+Asphalt 0.8344424963
+Automotive design 0.831798195839
+Windscreen wiper 0.806330502033
+Rear-view mirror 0.802684307098
+Car 0.788907408714

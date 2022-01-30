@@ -1,0 +1,10 @@
+Car 0.955729901791
+Vehicle 0.934269189835
+Automotive lighting 0.917309403419
+Light 0.912504076958
+Tree 0.874064862728
+Motor vehicle 0.863465428352
+Mode of transport 0.846145749092
+Atmospheric phenomenon 0.840832471848
+Fog 0.834509670734
+Automotive exterior 0.805951416492

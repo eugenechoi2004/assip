@@ -1,0 +1,10 @@
+Sky 0.957951843739
+Automotive lighting 0.92515027523
+Car 0.91135841608
+Vehicle 0.905246734619
+Motor vehicle 0.902519762516
+Automotive mirror 0.896500587463
+Infrastructure 0.892217636108
+Road surface 0.886178076267
+Asphalt 0.860244274139
+Windscreen wiper 0.847503304482

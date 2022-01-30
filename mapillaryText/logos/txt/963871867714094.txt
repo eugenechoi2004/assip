@@ -1,0 +1,2 @@
+Shanghai Advanced Institute of Finance 0.577811717987
+bounds: (217,295),(289,295),(289,349),(217,349)

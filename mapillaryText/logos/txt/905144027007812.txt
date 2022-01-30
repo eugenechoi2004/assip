@@ -1,0 +1,2 @@
+National Museum of Singapore 0.583468437195
+bounds: (447,241),(566,241),(566,273),(447,273)

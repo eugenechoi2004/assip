@@ -1,0 +1,2 @@
+Vancouver School of Theology 0.575222849846
+bounds: (269,60),(324,60),(324,99),(269,99)
