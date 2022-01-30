@@ -1,6 +1,6 @@
 import cv2
 img1 = cv2.imread("imageComparisons/CubbonPark1.jpeg")
-img2 = cv2.imread("imageComparisons/CubbonPark2.jpeg")
+img2 = cv2.imread("imageComparisons/blacksoil.jpeg")
 
 img1 = cv2.cvtColor(img1, cv2.COLOR_BGR2GRAY)
 img2 = cv2.cvtColor(img2, cv2.COLOR_BGR2GRAY)
