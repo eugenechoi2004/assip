@@ -1,0 +1,6 @@
+# ninja log v5
+1	6925	1623869815149202912	/Users/eugene/Documents/GitHub/assip/detectron2/build/temp.macosx-10.9-x86_64-3.8/Users/eugene/Documents/GitHub/assip/detectron2/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cpu.o	34f6bc9a42d5b710
+1	7393	1623869815606844325	/Users/eugene/Documents/GitHub/assip/detectron2/build/temp.macosx-10.9-x86_64-3.8/Users/eugene/Documents/GitHub/assip/detectron2/detectron2/layers/csrc/nms_rotated/nms_rotated_cpu.o	79195727555c24ac
+1	8260	1623869816480449271	/Users/eugene/Documents/GitHub/assip/detectron2/build/temp.macosx-10.9-x86_64-3.8/Users/eugene/Documents/GitHub/assip/detectron2/detectron2/layers/csrc/ROIAlignRotated/ROIAlignRotated_cpu.o	96e1639ff8d476bc
+0	9737	1623869817988977896	/Users/eugene/Documents/GitHub/assip/detectron2/build/temp.macosx-10.9-x86_64-3.8/Users/eugene/Documents/GitHub/assip/detectron2/detectron2/layers/csrc/cocoeval/cocoeval.o	3896f16791621466
+0	21602	1623869829792628661	/Users/eugene/Documents/GitHub/assip/detectron2/build/temp.macosx-10.9-x86_64-3.8/Users/eugene/Documents/GitHub/assip/detectron2/detectron2/layers/csrc/vision.o	d7fbe9a4ce687dd5
