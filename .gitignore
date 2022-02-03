@@ -5,3 +5,5 @@ mapillaryText/landmarks/images/
 mapillaryText/logos/images/
 mapillaryText/labelOutputs/
 mapillaryText/text/images/
+*.DS_Store
+*.pyc
